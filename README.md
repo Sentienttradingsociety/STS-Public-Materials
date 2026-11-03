@@ -8,7 +8,7 @@ Ron (SentientRon) and Ali (SentientAli) are the founders of the Sentient Trading
 The authors, Ron and Ali, have spent over 500 hours writing and refining these materials.
 
 ## Contents
-- `data/STS-Public Materials` - An LLM-friendly overview followed by the entire public STS materials.
+- `data/STS-Public-Materials.md` - An LLM-friendly overview followed by the entire public STS materials.
 
 ## Format
 Markdown followed by plain text, originally LaTeX PDFs.
