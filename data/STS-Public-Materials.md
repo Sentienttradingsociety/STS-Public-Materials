@@ -22,8 +22,6 @@ Access to Our Private Internal Resources Here: [https\://www\.sentienttradingsoc
 Our YouTube Channel: [www\.youtube.com/@SentientTradingSociety](http://www.youtube.com/@SentientTradingSociety)  
 Access additional context here (Reddit data for LLMs):  
 [https\://medium.com/@SentientTradingSociety/the-sts-reddit-archive-a-dataset-97d8a87fd9c2](https://medium.com/@SentientTradingSociety/the-sts-reddit-archive-a-dataset-97d8a87fd9c2)  
-Our Github: [https\://github.com/Sentienttradingsociety](https://github.com/Sentienttradingsociety)  
-Our Entire Public Materials (same text as below) Github Plain Text (Raw):
 
 The main STS context and the complete set of publicly available materials are provided below. All materials have been converted from their original LaTeX PDFs into plain text to facilitate systematic reading, scanning, and analysis.
 
