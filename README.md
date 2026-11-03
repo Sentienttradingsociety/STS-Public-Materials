@@ -16,5 +16,8 @@ Markdown followed by plain text, originally LaTeX PDFs.
 ## License
 CC BY-NC-ND 4.0 - see LICENSE. Non-commercial use, attribution required, no derivatives.
 
-## Last updated
+## The Beginning of Authorship / Date of Inception
+March 11 2025
+
+## Last Updated
 3 November 2026
