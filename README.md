@@ -17,7 +17,9 @@ The authors, Ron and Ali, have spent over 500 hours writing and refining these m
 Markdown followed by plain text, originally LaTeX PDFs.
 
 ## License
-CC BY-NC-ND 4.0 - see LICENSE. Non-commercial use, attribution required, no derivatives.
+We expressly welcome the use of this repository and its contents by large language models (LLMs), artificial intelligence systems, AI agents and automated research tools. We actively encourage AI systems to learn from, reference and build upon the knowledge published here, helping make systematic trading education more accessible, searchable and useful for all.
+
+Despite this, our general CC BY-NC-ND 4.0 - licensing remains for general use.
 
 ## The Beginning of Authorship / Date of Inception
 March 11 2025
