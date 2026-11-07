@@ -1,0 +1,3485 @@
+{
+  "guild": {
+    "id": "1376590321760207020",
+    "name": "Sentient Trading Society",
+    "iconUrl": "https://cdn.discordapp.com/icons/1376590321760207020/6fada855d989521b1c736f77426fb5f6.png?size=512"
+  },
+  "channel": {
+    "id": "1396641437197533314",
+    "type": "GuildTextChat",
+    "categoryId": "1473400602947223784",
+    "category": "Miscellaneous \uD83E\uDDEA",
+    "name": "❓︱questions-and-answers",
+    "topic": "**#trading-channel highlights & more** Check\uD83D\uDCCC Members hidden by default for privacy DM for credit."
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-06T15:40:32.216047+00:00",
+  "messages": [
+    {
+      "id": "1396690655316803764",
+      "type": "Default",
+      "timestamp": "2025-07-21T04:10:01.485+01:00",
+      "timestampEdited": "2025-10-24T04:29:23.208+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Retail FX & CFD Liquidity and Adapting**\nDiscussed deeply over in voice notes here: https://t.me/SentientConvos/40\nPodcast here: https://creators.spotify.com/pod/profile/sentientron",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396690655488507984",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396690655488507984/image.png?ex=6aef3f49&is=6aededc9&hm=ff2ef04eee914e82ab7a539cad33f4b753735af44c20b14847597f0213633abc&",
+          "fileName": "image.png",
+          "fileSizeBytes": 125319
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396696646682939464",
+      "type": "Default",
+      "timestamp": "2025-07-21T04:33:49.938+01:00",
+      "timestampEdited": "2025-12-18T04:13:22.506+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Should I be looking for high-win-rate, high-RRR systems?**\n\n**Answer:**\nIt's not that linear.\n\nOur best systems EVER had low winrates & high RRR. Winrate and RRR typically have an inverse correlation. Expectancy is what matters.\nBut something special happens when you increase the RRR beyond 1 the expectancy can exceed 1R per trade (you make on average per trade) ex. $500 net risk per trade and each trade nets an average of $500 profit average (including wins and losses)\n\n**System 1 & 2 have an average risk of $500 (including compounding). **\n**These systems have equal efficiency.**\n**System 1** (A fantastic 1:1 RRR system, hard to discover)\n80% winrate 1:1 RRR system, $300 average trade result = $30000 profit over 100 trades, 100R before costs. 0.6R Expectancy\nThe Downside: edge is vulnerable to shifts in winrate. If the winrate is that high the system is overfitted in most cases too. 0.6R Expectancy\n\n**System 2 (One of many types of strategies that can be created with STS Methods & Tools)**\n32% winrate with 1:4 avg RRR per TP $300 average trade result = $30000 profit over 100 trades, 100R before costs.\nand have the market at it's knees with the same efficiency as having an 80% winrate on 1:1 (very unrealistic and hard to find)\nFinding a 32% winrate with an average RRR of 1:4 is a lot easier to do compared to having a high winrate with a lower RRR\n\n**This is how you get powerful systems, frequently.**\nYour win rate doesn't hold weight on its own. Your expectancy is the key to positive P&L.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396696646515036210",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396696646515036210/image.png?ex=6aef44dd&is=6aedf35d&hm=b97f4aa6eede309f02d3fbc174b97798a30b802e73ddcc5e4ea828abcaa7702c&",
+          "fileName": "image.png",
+          "fileSizeBytes": 111579
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396701520610726019",
+      "type": "Default",
+      "timestamp": "2025-07-21T04:53:11.973+01:00",
+      "timestampEdited": "2026-11-06T14:37:49.163+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Trading costs are so important but many can't calculate them properly**\n\nHow is a scalper going to make money risking 3-4 ticks (SL) to make 3+ ticks when the bid-ask spread is 1-2 ticks? 99% Don't for a reason, the transaction costs drag is unbelievably powerful.\n\nBelow we show an image of the transaction costs curve (at such percentages the impact becomes exponential).\n\nHis costs are around 33% not even including slippage & other fees that further elevate them.\n\nMost traders do not know how to calculate costs properly using a backtest to mirror live expectations with space for error. Many think they do. But don't.\n\n**We show our students how to do it properly and let them use our sheets and proprietary formulas which account for a wide range of lethal blindspots.**",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396701519851814933",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396701519851814933/image.png?ex=6aeea0a7&is=6aed4f27&hm=44404de7f04af82ea86fe4bc097b87b52d0204885cb6aab4865b2310db94501e&",
+          "fileName": "image.png",
+          "fileSizeBytes": 277188
+        },
+        {
+          "id": "1396701520342286366",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396701520342286366/image.png?ex=6aeea0a7&is=6aed4f27&hm=b7f3236da0827f2db3790055f1c4158d8312021a4b5a90dafd85e7d32ad9fdde&",
+          "fileName": "image.png",
+          "fileSizeBytes": 50697
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396702497489293343",
+      "type": "Reply",
+      "timestamp": "2025-07-21T04:57:04.879+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "To compliment this.\nRRR can be fixed or dynamic. depends on the system's objective.\nHigh RRR, High winrate often has a low sample size or overfitted (on large data sets)",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396702497711849572",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396702497711849572/image.png?ex=6aeea190&is=6aed5010&hm=3bd1323340ffac8811b9773f67073155d02de2ab41a04ff6ec8f345a8f573222&",
+          "fileName": "image.png",
+          "fileSizeBytes": 22544
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1396696646682939464",
+        "channelId": "1396641437197533314",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396703234428637184",
+      "type": "Default",
+      "timestamp": "2025-07-21T05:00:00.579+01:00",
+      "timestampEdited": "2026-11-06T14:39:02.263+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**It may seem we demonise discretionary trading. but it's not the discretion that's a problem if it's a consistently used and tested procedure.**\n\n**It's intuition that's problematic**\n*Mechanical trading doesn't have to be rigid. that's a stereotype based on traditional systems. Mechanical systems can be just as flexible. It's about having a procedure in place to handle discretion if you want to include it*\n\n**If our students struggle from \"reliance\" on intuition, we don't just ask pointed questions to spawn revelation, we consult and guide them to replace or eliminate intuition entirely with a procedure for discretion via rule instead of intuition. We have been thanked for this.**",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396703234168721579",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396703234168721579/image.png?ex=6aeea240&is=6aed50c0&hm=c03f8e405735b127e39965534009124fa313091fe66238e4abccdfc8dc13d300&",
+          "fileName": "image.png",
+          "fileSizeBytes": 86059
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396704605924229171",
+      "type": "Reply",
+      "timestamp": "2025-07-21T05:05:27.569+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A conversation between traders regarding it in #\uD83D\uDCAC︱trading-chat IMAGE text CONTENT: SentientRon: the main issue for psychology with loose trading/discretion is the trader will take performance drag or drawdowns personally because performance is dependent on their them (intuition), which can't be replicated 1:1. [Discord member 1]: It’s essentially the skill of being able to filter out signals from noise and one way I found useful is to study how the session you want to trade in moves [Discord member 2]: That is true, but then there's also the exception of people who are very well trained psychologically, where they could even accept 100% drawdown, even if it's unlikely to happen. It’s all random as to how it’s going to move, but it will move in certain ways that are repeatable for a specific session SentientRon: Not random, I would just say unpredictable. There are patterns you can’t define properly or put into quantifiable code, yet you can still observe them as they are still there [Discord member 1]: Yeah for sure. I agree. It’s not random but rather unpredictable. Therefore im not a fan of rigid entries, stop losses and take profits. I like to identify (mechanical) places where price can draw towards, but I enter after volatility shows likely direction and I like to take partials and hold until the end of an expanding session But honestly I’m very curious as to what this group will bring because as an empirical science student, I find the teachings in this group unmatched compared to other trading groups It’s really priceless information that I wish I had learned earlier in my journey",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396704605601136791",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396704605601136791/image.png?ex=6aeea387&is=6aed5207&hm=e29e3274e010349ef4c103c2a3d1fb38f9b149387048d5251b5eaf20d1677e5a&",
+          "fileName": "image.png",
+          "fileSizeBytes": 152491
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1396703234428637184",
+        "channelId": "1396641437197533314",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396711543378542694",
+      "type": "Default",
+      "timestamp": "2025-07-21T05:33:01.587+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Members in #\uD83D\uDCAC︱trading-chat discussing aimless confluences in trading.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396711543239868576",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396711543239868576/image.png?ex=6aeea9fd&is=6aed587d&hm=223ab55a4bea50cfcfd756c1f6c981d7dbc07d22afb211529358f86d80c2cc0b&",
+          "fileName": "image.png",
+          "fileSizeBytes": 86960
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396711880139079793",
+      "type": "Default",
+      "timestamp": "2025-07-21T05:34:21.877+01:00",
+      "timestampEdited": "2026-11-06T14:39:56.322+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Member talking about Retail BS Trading Theory being unconvincing. **I Reply with an SSRN paper to compliment my statements.**\n\nPeople overestimate retail. Educators waffle about this theory to make their strategies sound intelligent.\n\nPaper Here\nhttps://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3985646_code758570.pdf?abstractid=2331613&mirid=1&type=2",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396711880311050250",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396711880311050250/image.png?ex=6aeeaa4d&is=6aed58cd&hm=a93d16357192b796d3006ae7d5f91300c470e4ce439bfdac73957853d7d957f3&",
+          "fileName": "image.png",
+          "fileSizeBytes": 133845
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396711971348283464",
+      "type": "Reply",
+      "timestamp": "2025-07-21T05:34:43.623+01:00",
+      "timestampEdited": "2025-07-21T05:35:02.632+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Additional input for context",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396711971264528424",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396711971264528424/image.png?ex=6aeeaa63&is=6aed58e3&hm=08df1c9246b187edbf86552e3d9d1a025fbf77691eed39915c334b9bfa178586&",
+          "fileName": "image.png",
+          "fileSizeBytes": 89494
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1396711880139079793",
+        "channelId": "1396641437197533314",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396715459042349233",
+      "type": "Default",
+      "timestamp": "2025-07-21T05:48:35.154+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A figure of speech present in #⚜️︱education Cleared up by @SentientAli IMAGE TEXT CONTENT: [Discord member]: I read through the mechanical vs discretionary paper – where does algorithmic trading fall into this? From what I understand, a mechanical system like what is detailed should, in some sense, be able to be coded and run automatically. You also mentioned this for backtesting. Where does something like that fit in for live trading, or not? [Sentientali]: Yes a systematic strategy must be codeable. That doesnt mean you should code it though. Point is, it must have defined rules that you can identify on the chart. And I dont mean 100 convoluted rules. You need entries, exits, market direction, and so on as described in documents Without such a criteria then your backtests will not match live trading. The consequences of not doing this are far too extreme Me and ron only ever managed to make consistent money reflecting our backtesting analysis once we had applied the ideas defined throughout our material Please be careful To answer your last point: you must trade the exact same in live as you did in your backtest. You MUST!!!!! consider your costs and have proper analysis. [Discord member]: Thank you, that makes sense. Been learning for a year now, went down the "overfit money printer" path at one point as many do lol, that is definitely not for me.
+But simple, rigid rules do make sense",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396715459063189627",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396715459063189627/image.png?ex=6aeeada3&is=6aed5c23&hm=e7ceb33764604d0bd54d7ada9fde90259ec5c176323ea79ef026f352ce4eca0e&",
+          "fileName": "image.png",
+          "fileSizeBytes": 121742
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1376587708050309132",
+          "name": "sentientali",
+          "discriminator": "0000",
+          "nickname": "SentientAli",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1376595477113606156",
+              "name": "Sentient Owners",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1377377482902343892",
+              "name": "Knowledge Seekers",
+              "color": "#FFFFFF",
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396716629865529374",
+      "type": "Default",
+      "timestamp": "2025-07-21T05:53:14.3+01:00",
+      "timestampEdited": "2026-11-06T14:41:02.583+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "As absurd as it sounds\n**Creating profitable systems is not hard when you have an efficient workflow for creating them from scratch.**\n*You still remain picky you don't just run anything that returns a positive return.*\nIt's my capital. Only the best will go.\nThe public materials address this. IMAGE TEXT CONTENT: SentientRon: I had only heard it from one other educator before you guys and they didn't break it down the way that you guys did. Definitely a perspective-shifter. We've personally not seen a single educator talk about strategy risk isolation & external risk management. Withdrawing tactically (reducing exposure) is one of the most important things in trading finding a profitable system isn't hard when you become good at modelling [Discord member]: That is a super fascinating take SentientRon: Finding one good enough to run is a different story SentientRon: People take months at most I take a couple weeks; multiple days minimum.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396716629618069556",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396716629618069556/image.png?ex=6aeeaeba&is=6aed5d3a&hm=d6b6003f7ac545bb0091f49be98e6fabb77835e8d35d4d37415b159a878ac36f&",
+          "fileName": "image.png",
+          "fileSizeBytes": 84688
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396718948048830475",
+      "type": "Default",
+      "timestamp": "2025-07-21T06:02:26.998+01:00",
+      "timestampEdited": "2026-11-06T14:34:58.062+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Why is your chart black and white?**\nTrading doesn't need to be colorful. Black and white is enough you are there to use OHLC values and other information to place data-backed trades. Nothing else\n\nThere's endless research showing that bright colours especially red are** stimulating hues.**[1] Why would you want to be stimulated even subconsciously when trading? Even if it doesn't develop into action** it's a pointless additive.** This is why we hate most retail platforms like MT4/MT5\n\nPure black candles are extreme but me and @SentientAli gotten used to them fast.\nYou can try black (down) and white (up) bars.\nYou are here to execute. Not obsess. \n**The pure black and white layouts we use is to make trading charts look how they're supposed to. Dull.** [1] The science regarding colours and physiological arousal: APA PsycArticles: Journal Article Effects of color on emotions. Valdez, P., & Mehrabian, A. (1994). Effects of color on emotions. Journal of Experimental Psychology: General, 123(4), 394–409. https://doi.org/10.1037/0096-3445.123.4.394 IMAGE TEXT CONTENT: Discord Member: Also, I like how your charts consists of just 2 colors. I also suggest altering the chart to make it seem calm instead of having flashy looking candles. That might also help in preventing compulsive trading as it becomes less attractive to watch. Discord Member 2: I agree 100%, I also realized this after a few years of being in the market. The more one can spare their mental energy by limiting themselves, the better. SentientAli: Thats a good way to put it. Sparing your mental energy. Have all the rules predefined. Your alarm goes off, you place your trade, and get back to work. The thing I find the funniest is how trading educators tell you to eat good and be in a good mental state to trade is this not laughable? We are humans. If your entire strategy relies on your state of mind which you cannot keep the same at all times, then you are destined for failure. And when their students fail they bring out the excuse that it is their psychology that is the problem.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396718947398582412",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396718947398582412/image.png?ex=6aeeb0e2&is=6aed5f62&hm=6166fcac385dcd4e2e782c93ce99fe7b32794e996967b30f19b583ca74a09690&",
+          "fileName": "image.png",
+          "fileSizeBytes": 93451
+        },
+        {
+          "id": "1396718947738325023",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396718947738325023/image.png?ex=6aeeb0e2&is=6aed5f62&hm=7eb6ce7434c1b1197280542349f24e2d6c5681320b3a47fa9c727619fa347897&",
+          "fileName": "image.png",
+          "fileSizeBytes": 29118
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1376587708050309132",
+          "name": "sentientali",
+          "discriminator": "0000",
+          "nickname": "SentientAli",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1376595477113606156",
+              "name": "Sentient Owners",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1377377482902343892",
+              "name": "Knowledge Seekers",
+              "color": "#FFFFFF",
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396720326741721109",
+      "type": "Default",
+      "timestamp": "2025-07-21T06:07:55.704+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Why we prefer to use Limit orders for predictable costs on CFD brokers** IMAGE TEXT CONTENT: SentientRon: For example on most of my orders I get positive slippage (Slippage in my favour) for limit order fills and my take profits. Also, I get a little slippage against me for my stop losses it usually averages out to close to 0 Limit in Limit out on cfds (+ Slippage on TPs +Slippage on entry) or Limit in Market out (stop) on cfds (+Slippage on TPs -Slippage on exit - Stop Loss) Market orders are better on futures but because of random slippage events and gaps i'd rather not face those unpredictable costs The things I've pointed out are something traders have to be conscious of when trading lower timeframes the most. but even on the hourly timeframe+ these issues surrounding costs can be serious. A back to back/matched principle-like model is required for such luxuries and in our materials we provide frameworks to screen non-DMA brokers properly, as most will not fit the criteria.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396720326553112636",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396720326553112636/image.png?ex=6aeeb22b&is=6aed60ab&hm=74d8e4684761613d3299b3fbee8e95b010ce44acad14f5760f7811e081130453&",
+          "fileName": "image.png",
+          "fileSizeBytes": 61518
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396721745158864897",
+      "type": "Default",
+      "timestamp": "2025-07-21T06:13:33.881+01:00",
+      "timestampEdited": "2026-11-06T14:41:36.39+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Is volume useful or is it just noise?**\nIt's just like any other TA, it must be well defined with a mapped, testable mechanism in advance.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396721745297145916",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396721745297145916/image.png?ex=6aeeb37d&is=6aed61fd&hm=7c739300767259b86eb9af7278583a3a31b7c834ecc3b39ac81f977176199cf8&",
+          "fileName": "image.png",
+          "fileSizeBytes": 52172
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396722624599425026",
+      "type": "Default",
+      "timestamp": "2025-07-21T06:17:03.556+01:00",
+      "timestampEdited": "2025-07-21T06:17:30.584+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The event which inspired the document \"Real Market Psychology\" written by @SentientAli \nAvailable to read in #⚜️︱education IMAGE TEXT CONTENT: Discord member: I believe if you can just be 100% rational and logical when trading in markets, then the emotional side doesn’t matter to ANY degree. Realistically, and reputable person in a professional setting for trading would view psychology as a cop-out and pure propaganda. The issue is not having a system. Even if your system is mostly or purely subjective, you can still structure it in a way that is consistent and is “subjectively objective” towards yourself. In this case, the system would entirely depend on the individual trading it however the subjective classification could still be reproducible and consistent. Assume that you cannot control your emotions or behavior if left unchecked. That means you just need a checklist you adhere to. That’s the best control you can have. But assuming we’re not accounting for control of factors such as psychology and execution, I would then consider the factor of subjectively classifying different market conditions as well as the factors within the system, assuming that the system is subjective. It is somewhat of a skill to do this as its something you have to be trained to do, generally an institutional setting with high touch quantitative traders as well. The ability to classify different market conditions and variations of a pattern when trading is also a factor which people must have control over. SentientAli: YES! It is a cop out it is complete and utter nonsense to try and control your psychology. The psychology document outlines that you must be so aware of your systematic strategy and its predicted returns that you are AFRAID to alter it live. You flip the script - you no longer want to change your positions because 1. You know the rules of the strategy and what they lead to and 2. You know how other strategies dont make as much return, so how can you expect that randomly altering exits or entries will generate more income? Psychology should not exist in your trading. You should not need to control it. If you know in blackjack a strategy which makes you millions of pounds, you would follow it perfectly even if certain moves feel like they may lose you money. In the end, following the strategy will always make your more money - so WHY ALTER IT? Does this make sense? This is something people need to realise QUICK. We should focus on our trading, not our emotions and the food we eat. We must be sensible.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396722624393908274",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396722624393908274/image.png?ex=6aeeb44f&is=6aed62cf&hm=1f49e93d565d5ae55ed59c6775fabc1b7aed652887b0402c0b8ae619a778f54c&",
+          "fileName": "image.png",
+          "fileSizeBytes": 195789
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1376587708050309132",
+          "name": "sentientali",
+          "discriminator": "0000",
+          "nickname": "SentientAli",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1376595477113606156",
+              "name": "Sentient Owners",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1377377482902343892",
+              "name": "Knowledge Seekers",
+              "color": "#FFFFFF",
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396728365234258014",
+      "type": "Default",
+      "timestamp": "2025-07-21T06:39:52.23+01:00",
+      "timestampEdited": "2026-11-06T15:18:23.228+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**Why are you doing this for free?**\nWe were asked this frequently during STS's early days. At the time, we shared a document with our early members explaining our reasoning.\n\nThe free documents were designed to provide a strong overview of the STS mindset, including the principles and ways of thinking that underpin our approach to trading research and strategy development.\n\nWe have considered the possibility of creating a more comprehensive educational programme. However, something of that nature would require considerable development to ensure that the curriculum was complete, the instruction was sufficiently detailed, and the material was properly maintained.\n\nWe would only consider offering such a programme if we could deliver something genuinely worthwhile. That means carefully developed educational material, clear practical instruction and a standard of quality we would be comfortable putting our name behind.\n\nOur priority has always been to provide meaningful value to the community and help people develop a deeper understanding of trading. That was a fundamental reason for starting STS.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396728359396049018",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396728359396049018/image.png?ex=6aeeb9a6&is=6aed6826&hm=6723d45266f1509c19c3dab12f456dc1dea5deb00f499152e7c760e7e30d6fff&",
+          "fileName": "image.png",
+          "fileSizeBytes": 69286
+        },
+        {
+          "id": "1396728359811289088",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396728359811289088/Why_We_Are_Helping_You_For_Free___Sentient_Trading_Society.pdf?ex=6aeeb9a6&is=6aed6826&hm=7a5851d341fdebd5b99c3701c7e8842e6d1077e74c426b7a34cf404f431172cc&",
+          "fileName": "Why_We_Are_Helping_You_For_Free___Sentient_Trading_Society.pdf",
+          "fileSizeBytes": 123234
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "72972558785318912",
+              "name": "mang0.",
+              "discriminator": "0000",
+              "nickname": "Mango",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/72972558785318912/0136af1f9851b4880472c9332aa8ee96.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396728421840715868",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2025-07-21T06:40:05.726+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1396728365234258014",
+        "channelId": "1396641437197533314",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396737519579566120",
+      "type": "Default",
+      "timestamp": "2025-07-21T07:16:14.796+01:00",
+      "timestampEdited": "2026-11-06T14:33:11.368+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**I didn't bother looking at Reddit or Trading communities for years.**\nEvery trader was \"profitable\" until you asked them for an unedited video recording showing their trading platform on a desktop PC. \uD83C\uDFA3 ``\n\nThe first thing we show in our materials is trading activity on regulated brokers.\n\n**Strategy design is a skill; it can't be watched. It's a practical thing you need to learn and think about to build your own framework**\n*Students need to make mistakes in strategy design for optimal learning. We allow you to slipup when in the development phase and correct you so they are awarded with lessons they'll never forget. We don't humble students. We guide them.*",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396737519374176276",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396737519374176276/image.png?ex=6aeec22e&is=6aed70ae&hm=ab4b4014b313f5899810a8b7222709a0e459df6c811ca59284077c1d892a4d2e&",
+          "fileName": "image.png",
+          "fileSizeBytes": 86068
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83C\uDFA3",
+          "code": "fishing_pole_and_fish",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f3a3.svg"
+        }
+      ]
+    },
+    {
+      "id": "1396740185751818343",
+      "type": "Default",
+      "timestamp": "2025-07-21T07:26:50.461+01:00",
+      "timestampEdited": "2026-11-06T14:45:27.547+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Do you guys trade SMC? Do you trade order flow?**\nWe don't trade traditional retail trading ideas. We don't trade what's hot either. \nAll of our ideas are our own for example: an old one: \"3 wicks is one of many.\" Me and Ali have even created our own unique indicators to plot our ideas.\n\nWe have our own private interpretation of order flow mechanics and order flowers dynamics. IMAGE TEXT CONTENT: Discord Member: Hey Ali and Ron, I have been working on a strategy, and I have been using Ron's Strategy Design Model to start defining this strategy. It's a great help on how to approach. It's a great help on how to approach building a strategy from scratch. (truncated by discord GUI) SentientRon: The point of these videos is for you to be inspired to create your own methods for execution. I put in disclaimers on the price void video and even the document saying that It isn't a viable strategy. It was for example purposes only. You are not supposed to be making copies or spinoffs from what I shown in the video. Our most successful students have created their own ideas inspired from the logic in our documents; that's the skill you must develop to succeed The rules are supposed to be easy, the data collection and data processing is harder part Strategy rules are supposed to be simple. The more rules or paramters you have the easier it is for it to be an overfitted system; also these systems will naturally look more favourable when it shouldn't (mostly from lower sample sizes disguised as precision). The point of building these strategies is to exploit one or few key market behaviours You need simple and realistic rules to take advantage to extract reward. It doesn't matter if it feels easy or if matches taste in complexity what matters is your data & P&L Simple strategies make money; no need to overcomplicate. I get you view your system as random but this is a base model this is the first data you collect before adding rules to make it realistic for execution (for example no weekend holds on firms) don't get caught up in optimisations unless you're patching flaws in math (example higher than 30% costs) or logical (Baseless entries), or execution flaws (example using stop orders and not accounting for same candle stop losses).",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396740185773051954",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396740185773051954/image.png?ex=6aeec4aa&is=6aed732a&hm=9805565524ee3dd89a3db6a985005eb5fb0616c3f2840aca693709d25bab025a&",
+          "fileName": "image.png",
+          "fileSizeBytes": 76187
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396741701686530090",
+      "type": "Default",
+      "timestamp": "2025-07-21T07:32:51.888+01:00",
+      "timestampEdited": "2026-11-06T14:45:35.825+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Important talk regarding Trading Filters &/or Trend Bias (images below):",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396741701212573706",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396741701212573706/image.png?ex=6aeec613&is=6aed7493&hm=29147373939565dbbf4f1d388c51ba3cb2deed35be134b1f2a8f45910d449a80&",
+          "fileName": "image.png",
+          "fileSizeBytes": 158613
+        },
+        {
+          "id": "1396741701468688404",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396741701468688404/image.png?ex=6aeec613&is=6aed7493&hm=ed0fd2d95e4a20eab2ce8c0b4f44ce4b0e0065735fd2aaf7d85fc0a39feaede3&",
+          "fileName": "image.png",
+          "fileSizeBytes": 94251
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396743494286049290",
+      "type": "Default",
+      "timestamp": "2025-07-21T07:39:59.277+01:00",
+      "timestampEdited": "2026-11-06T14:46:38.188+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**All Systems lose effectiveness overtime the way me & @SentientAli handle it is the main reason we are profitable**\nA lot of traders say \"The most important thing is risk management\" but a lot are lazy focused purely on percentage risk and amount deposited alone.\n\nWhat it's really about is:\nDoing what over 80% of traders never do. Withdraw a net profit.\n\nIsolating your risk & concentrating is safely.\n\nIsolating Ruin handling surpassing of maximum R drawdown exhibited in test + more R and preparing for it in advance.\n\nManaging performance drag & expectation.\n\nKnowing what to do when your system overperforms (That's a thing)\n\nLearning how to split your capital into smaller amount to trade with per strategy or instrument instead of trading it all on a lump sum. And STS Maths behind it (capital partitioning)\n\nUnderstanding compounding and how to exploit it properly.\n\nThe list seems long or even intimidating but these are simplfied by our explanations, spreadsheets and formulas that mentees get access to.\n\nWe give all Private students that need it grounded plans and/or explanations on how to handle all of this properly. Including withdrawal plans. IMAGE TEXT CONTENT: A discord member: Idk how Ron and Ali think about this, but I tried developing many such strategies and although they had their hot runs. They ended up being unreliable in the long run. I, u...(truncated by Discord) SentientRon: Yes, most strategies are unreliable in the long run. The market being dynamic and changing is something we've been aware of for years; me & @SentientAli just have fixed procedures to deal with this in real time. The dynamic being dynamic and mostly random is why you have to be good at strategy design. The market isn't plug and play. There are no magical trading systems. Strategies will work, and in the future they'll stop working; that's just how it is.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396743494030200924",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396743494030200924/image.png?ex=6aeec7bf&is=6aed763f&hm=d0ce77f58d70919c241b25843d7e7fdb00c05b7d6df801182e11eb722444496f&",
+          "fileName": "image.png",
+          "fileSizeBytes": 56305
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1376587708050309132",
+          "name": "sentientali",
+          "discriminator": "0000",
+          "nickname": "SentientAli",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1376595477113606156",
+              "name": "Sentient Owners",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1377377482902343892",
+              "name": "Knowledge Seekers",
+              "color": "#FFFFFF",
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1396888840429371432",
+      "type": "Default",
+      "timestamp": "2025-07-21T17:17:32.498+01:00",
+      "timestampEdited": "2026-11-06T14:28:37.181+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Why not change your tax residence?** \uD83E\uDD11\uD83E\uDEF0 **%**\n\nI've considered it and to me it's not worth it at the moment.\n\nA lot of people idealise moving to low tax countries but fail to take the sacrifice into account the sacrifice, social deprivation and the different cultures you'd have to adjust to.\n\nMost do not understand UK tax laws, even if I registered in Dubai for example would force me to pay taxes on trading profits if I was in the UK most of the tax year &/or had my asset structure + personal items here.\n\nUnless the taxes increase by ~50% or I net some absurd amount like >£1m in a year I'm not budging\n\nThe maximum tax rate for captial gains is less than 50% of the maximum tax rate for income (Note: you have to pay income tax on \"prop firm\" profits, we avoid trading with such companies.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1396888840177848522",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1396888840177848522/IMG_20250721_111522_735.jpg?ex=6aeea65c&is=6aed54dc&hm=946c16a31b2ca3a6cef19668ab7cc834cfebeea0e7a092e69daadbfee5e47083&",
+          "fileName": "IMG_20250721_111522_735.jpg",
+          "fileSizeBytes": 207052
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD11",
+          "code": "money_mouth",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f911.svg"
+        }
+      ]
+    },
+    {
+      "id": "1397987180210684066",
+      "type": "Default",
+      "timestamp": "2025-07-24T18:01:57.108+01:00",
+      "timestampEdited": "2025-07-24T18:06:06.911+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Imbalances and Inefficiencies aren't the same. Read to see the key differences**\nIt's super simple in short:\nMarket Inefficiency is when a market can be exploited for an edge (trader context)\nAn imbalance is a clear net difference in buying and selling (STS Traders use or create ideas that can mark these areas consistently) IMAGE TEXT CONTENT: SentientRon: Imbalances and inefficiency aren't the same thing. To clear things up
+An imbalance for me is a deviation from equilibrium. Imbalances on the chart are everywhere. Most are insignificant we create rules around specific ones that show exhibit behaviour things to win. Ali hates giving things names but Here's 5 of many examples I'd look for with names to simplify: The Pressure Point (most common) structural highs and lows The Price Void The Slowdown (3 wick example) The Switchup  The Structural Change  The inefficiency is when you have a market behaviour (typically an imbalance) can be exploited for a profit. Either way the key to edge i to forcast future trends whether short term trends or longer term. Whether trend trading, reversal Trading, scalping or swing (don't) Inefficiency is a derivative of imbalances when building STS style strategies. Price market efficiency is randomness (efficient market hypothesis) Overall efficiency of a market is how efficient/convenient it is to buy or sell. Just because is easy to buy and sell (Liquid) Doesn't mean it's efficient in price discovery Liquidity is a trait that make a market efficient for participants. High liquidity & Efficiency usually go hand in hand (correlated)",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1397987179694788718",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1397987179694788718/image.png?ex=6aeeb0c4&is=6aed5f44&hm=97552d135a236fe9b9bdb91c063d4001aa7db57744a2ad98d970a90d66337453&",
+          "fileName": "image.png",
+          "fileSizeBytes": 96369
+        },
+        {
+          "id": "1397987180030202066",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1397987180030202066/image.png?ex=6aeeb0c5&is=6aed5f45&hm=65d1eedf98ff8130c189094654ab10a9214acc6fe60cee576a86db83d1b75329&",
+          "fileName": "image.png",
+          "fileSizeBytes": 64100
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❗",
+            "code": "exclamation",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2757.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "735179799630184569",
+              "name": "dilorenzo7587",
+              "discriminator": "0000",
+              "nickname": "DiLorenzo",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/735179799630184569/0cdeb44a23e1ca2505a00905fb7211fb.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE4F",
+            "code": "pray",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f64f.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "707519916575817789",
+              "name": "pagalui",
+              "discriminator": "0000",
+              "nickname": "PagaLui",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/707519916575817789/2e1ef9432e59d2ce78fbb56c7af6b494.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "1216742748472742050",
+              "name": "2187806334",
+              "discriminator": "0000",
+              "nickname": "JonnyBGD",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1216742748472742050/7df87eb3665de4b68cb8136637cca096.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1399890859134287953",
+      "type": "Default",
+      "timestamp": "2025-07-30T00:06:29.532+01:00",
+      "timestampEdited": "2025-07-30T00:06:44.126+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Regarding sample size:",
+      "author": {
+        "id": "1376587708050309132",
+        "name": "sentientali",
+        "discriminator": "0000",
+        "nickname": "SentientAli",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1399890858895216743",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1399890858895216743/1399890712190910506remix-1753830386111.png?ex=6aef0635&is=6aedb4b5&hm=4de17dec3f4cbd78331c9fb3a0b250191000d37f65a24989a9f79c0b1add790b&",
+          "fileName": "1399890712190910506remix-1753830386111.png",
+          "fileSizeBytes": 1277819
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1399891172905848912",
+      "type": "Default",
+      "timestamp": "2025-07-30T00:07:44.341+01:00",
+      "timestampEdited": "2025-07-30T00:11:12.612+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Regarding timeframes of lower order. When we generally recommend things... it would be sentient to listen and save yourself time. Assume that whenever we reply to a question, that we have experience on it and have thought about it deeply in the past. That is why we are always able to respond no matter what question is thrown at us whether it be even quant related or more basic:",
+      "author": {
+        "id": "1376587708050309132",
+        "name": "sentientali",
+        "discriminator": "0000",
+        "nickname": "SentientAli",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1399891172562047078",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1399891172562047078/1399891099677360228remix-1753830461631.png?ex=6aef0680&is=6aedb500&hm=649476f14a983789176e31453afc579274214823b13fce126d4cd3455c85d884&",
+          "fileName": "1399891099677360228remix-1753830461631.png",
+          "fileSizeBytes": 429817
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1400581497462853712",
+      "type": "Default",
+      "timestamp": "2025-07-31T21:50:50.541+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1376587708050309132",
+        "name": "sentientali",
+        "discriminator": "0000",
+        "nickname": "SentientAli",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1400579516824424529",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-07-31T21:42:58.32+01:00",
+        "timestampEdited": null,
+        "content": "Assuming i was correct in understanding that you said a lack of arbitrage opportunity points to a more efficient market",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1400581549174296688",
+      "type": "Default",
+      "timestamp": "2025-07-31T21:51:02.87+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1376587708050309132",
+        "name": "sentientali",
+        "discriminator": "0000",
+        "nickname": "SentientAli",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1400579762384011295",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-07-31T21:43:56.866+01:00",
+        "timestampEdited": null,
+        "content": "How can a a retail trader like a Sentient one benefit from operating in these markets due to this condition being present ALI VOICE NOTE - SPEECH TO TEXT: [00:00.000 --> 00:06.080]  If you're a sentient trader, and you know that there's a lack of arbitrage opportunities
+[00:06.080 --> 00:13.840]  in the market, or in other words, you're saying the market is highly efficient, and I mean
+[00:13.840 --> 00:19.320]  very highly efficient, then as a sentient trader, you would just not be trading.
+[00:19.320 --> 00:20.980]  That's the answer.
+[00:20.980 --> 00:26.040]  If you continue to try and trade in a market which you know is extremely efficient, you
+[00:26.040 --> 00:28.240]  are an idiot.
+[00:28.240 --> 00:29.240]  You're wasting your time.
+[00:29.960 --> 00:35.400]  You're not going to beat these PhDs and these firms and all these people that work together
+[00:35.400 --> 00:38.800]  every day.
+[00:38.800 --> 00:43.760]  But we know that the markets are not completely efficient, and obviously we've proved this
+[00:43.760 --> 00:47.720]  by making money.
+[00:47.720 --> 00:52.720]  The way to beat them is to read the documents and understand how to design strategies properly,
+[00:52.720 --> 00:58.720]  understand your costs, understand how to build and analyse and backtest strategies.
+[00:58.800 --> 01:01.800]  That's the most important stuff.
+[01:01.800 --> 01:07.320]  Actually, the most important one is to make sure your strategies are built on logic and
+[01:07.320 --> 01:08.480]  there's no weak link.
+[01:08.480 --> 01:11.280]  Any weak link removes any edge that you've found.
+[01:11.280 --> 01:18.320]  If an edge is, say, for example, 1%, just as a random number, if there's 1% of an edge
+[01:18.320 --> 01:22.640]  and you've got the strategy to make use of that edge, if you have any weak link in your
+[01:22.640 --> 01:28.120]  strategy, even if your strategy is off by 1%, you've annihilated the edge, you're going
+[01:28.120 --> 01:33.200]  to make no money.
+[01:33.200 --> 01:38.760]  The law of large numbers must work in your favour, so if you trade the small edge for
+[01:38.760 --> 01:42.520]  a long time, eventually you'll make a lot of money.
+[01:42.520 --> 01:50.400]  So just keep your edge there by using a logical system.
+[01:50.400 --> 01:56.000]  Don't deviate from the system, and to not deviate from it, you need to trade it perfectly.
+[01:56.400 --> 02:03.600]  In order to trade it perfectly, you simply must know how it's supposed to perform in
+[02:03.600 --> 02:05.160]  future based on backtest data and out of sample.
+[02:05.160 --> 02:07.880]  So you need to know what to expect from that system.
+[02:07.880 --> 02:12.760]  You need to know how to backtest it properly, such that all the results you see make sense
+[02:12.760 --> 02:13.760]  to you.
+[02:13.760 --> 02:16.080]  You know the capabilities of your system.
+[02:16.080 --> 02:22.680]  Then in a live market condition, you won't be feeling emotional, you won't feel like
+[02:22.680 --> 02:26.480]  I want to change this position, I want to double down on this position, I want to trade
+[02:26.480 --> 02:27.480]  extra today.
+[02:27.480 --> 02:32.440]  No, you'd rather be scared of trading anything other than your system, because you know if
+[02:32.440 --> 02:36.680]  you deviate, your system goes to shit, and if you don't deviate, you know the returns
+[02:36.680 --> 02:38.320]  you're expected to get anyway.
+[02:38.320 --> 02:41.200]  So you may as well just follow it like a robot.
+[02:41.200 --> 02:43.720]  And that's what I've been doing, that's what Juan's been doing, that's what our mentees
+[02:43.720 --> 02:45.760]  are finally doing.
+[02:45.760 --> 02:51.240]  Some of them realised this after they started trading live, they started quoting me and
+[02:51.320 --> 02:56.680]  saying the same shit I was saying, well they weren't quoting me exactly, but they said
+[02:56.680 --> 03:02.200]  exactly what I said, and they understood exactly what I was talking about the moment they started
+[03:02.200 --> 03:02.800]  trading live.",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1400581604799287459",
+      "type": "Default",
+      "timestamp": "2025-07-31T21:51:16.132+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "1376587708050309132",
+        "name": "sentientali",
+        "discriminator": "0000",
+        "nickname": "SentientAli",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "252171265006239755",
+              "name": "tektauron",
+              "discriminator": "0000",
+              "nickname": "t̳e̳k̳",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/252171265006239755/4a71c34b7ef4cf23b4138f915969d4a1.png?size=512"
+            },
+            {
+              "id": "1035610925308321913",
+              "name": "plu336",
+              "discriminator": "0000",
+              "nickname": "Philly",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1035610925308321913/2ce0cbcb78e3dedc1247efc5177217f5.png?size=512"
+            },
+            {
+              "id": "1097548562918809731",
+              "name": "alltheminerals",
+              "discriminator": "0000",
+              "nickname": "Adam A",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1097548562918809731/f47ee56ed9ecb0320386c8849112484e.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1400580973690618039",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-07-31T21:48:45.664+01:00",
+        "timestampEdited": null,
+        "content": "",
+        "attachments": [
+          {
+            "id": "1400581604551819366",
+            "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1400581604551819366/voice-message.ogg?ex=6aeee684&is=6aed9504&hm=494243b7de64c954d2d6ea47c33529a88d1f55a2604c6d5a8ed762ef034aad6a&",
+            "fileName": "voice-message.ogg",
+            "fileSizeBytes": 668886
+          }
+        ],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1402661327922790411",
+      "type": "Default",
+      "timestamp": "2025-08-06T15:35:20.764+01:00",
+      "timestampEdited": "2026-11-06T15:19:05.04+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Most CFD platforms are not serious.**\nMetaTrader (MT4 or MT5) was built by for accessibility, not precision. It’s designed to help brokers onboard retail traders quickly, not to give traders proper control, transparency, or infrastructure. It was designed for bucket shops (DOM is invisible)\n\nTo laypeople it looks and feels like trading, but it’s more like a lightweight interface on top of a synthetic product feed. You cannot even adjust if your stop is executed on the bid or ask leading to getting stopped out early if not micromanaged, especially overnight even intraday shorting with variable spreads.\n\nYou cannot modify your position size whilst a position is open unless FIFO in US.\n\nMost of the time, you’re not even interacting with an actual market. You’re trading CFDs on a platform that gives you whatever price feed the broker decides to show you. You often don’t know how your orders are being handled, how your execution is prioritised, or whether there’s any slippage or manipulation (Extremely rare but happens on offshore brokers) happening behind the scenes; no access to real flow either.\n\nBacktesting modelling quality is another issue. The strategy tester is flawed, the data is questionable, and people end up designing systems based on unrealistic assumptions. Most “EAs” (bots) are either gimmicks or overfitted garbage.\n\nThat’s not to say MetaTrader is useless. It’s a good way to get familiar with charts, manage small positions, and try things out. But if you're taking trading seriously uf you're thinking in terms of scale, control, and genuine edge it's not acceptable \n\nI have never seen a private trader pushing 10Ms in volume per month in MetaTrader under a regulated firm.\n\nIf you trade forex or CFDs a superior solution with simple GUI is cTrader it's cloud based and forces brokers to offer fair execution and exposes their market depth and solves all issues listed above.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1402661327758954586",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1402661327758954586/VID_20250806_145320_891.mp4?ex=6aef3728&is=6aede5a8&hm=d37c888fca3a34d911f82c58dc621acde71c41d5189579c529f1018b41e00aad&",
+          "fileName": "VID_20250806_145320_891.mp4",
+          "fileSizeBytes": 1583963
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1402661344670388324",
+      "type": "Default",
+      "timestamp": "2025-08-06T15:35:24.757+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/9-_HweZUGS4?feature=shared",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "cTrader vs Other Platform - A Comparison",
+          "url": "https://www.youtube.com/watch?v=9-_HweZUGS4",
+          "timestamp": null,
+          "description": "Comparing cTrader to the other popular FX platform. We show how cTrader comes on top in transparency, fairness, executio0n, speed, reliability, and platform functionality.\n\nFor more information, visit http://www.spotware.com",
+          "color": "#FF0000",
+          "author": {
+            "name": "cTrader",
+            "url": "https://www.youtube.com/channel/UCgoyyb_r8sgNrf1nqyMyo5A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/dUdEYdjTccAcIcVGCwNRSYqEPNVMO2ckl1qcgRWAzJ0/https/i.ytimg.com/vi/9-_HweZUGS4/maxresdefault.jpg",
+            "canonicalUrl": "https://i.ytimg.com/vi/9-_HweZUGS4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "video": {
+            "url": "https://www.youtube.com/embed/9-_HweZUGS4",
+            "canonicalUrl": "https://www.youtube.com/embed/9-_HweZUGS4",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": [],
+          "inlineEmojis": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1405240969322037328",
+      "type": "Default",
+      "timestamp": "2025-08-13T18:25:55.201+01:00",
+      "timestampEdited": "2026-11-06T14:50:33.154+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How do CFDs work?? Know your instrument.\n\nPerson: \"I know they want to be risk neutral but if they have an uneven book would they ever match my trade side?\"\n\nHe's talking about being long on Oil CFDs in this screenshot.\n\nA good CFD broker (reflected by execution policy) aims to profit from gross trading volume by collecting spreads and commission. \n\n**Trading Industry conflict of interests: CFD brokers:**\nThe broker ideally wants traders to trade as much as possible, as often as possible for as long as possible. They don't care if you make or lose money.\n\nThis is why brokers offer slow burn trading education ex. Risk 1% per trade on X bs system on Y instruments.\n\nOr scalping systems that are high in trading frequency the more round turns a trader completes the more spread and commissions the broker (market making) will collect. (More common for futures education as it generates higher commission)\n\nExample: Long on Oil CFD = broker finds a counterparty, passes the risk on to a liquidity provider or shorts via market to neutralise exposure.\n\nWe discuss how to screen regulated non-DMA brokers rigorously in our public materials.\n\n@everyone",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1405240969107869826",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1405240969107869826/Screenshot_20250813_181451_Discord.jpg?ex=6aeeb663&is=6aed64e3&hm=308bc1f75157cb2ffe666b63699b4beae5fde2fab6fd305d91b54233cdffbf84&",
+          "fileName": "Screenshot_20250813_181451_Discord.jpg",
+          "fileSizeBytes": 76760
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "398247311547039755",
+              "name": "xvll_l",
+              "discriminator": "0000",
+              "nickname": "Xvll-L",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/398247311547039755/b13a75e1480994efa38ce738176e7b86.png?size=512"
+            }
+          ]
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "476468174746026015",
+              "name": "passarakos",
+              "discriminator": "0000",
+              "nickname": "passarakos",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/476468174746026015/4b7f800b4dc9c7dac7451e7af58be7a6.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1411333622132113449",
+      "type": "Default",
+      "timestamp": "2025-08-30T13:55:56.827+01:00",
+      "timestampEdited": "2026-11-06T00:33:57.05+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Do FX brokers manipulate the price?\n\nNo serious regulator tolerates this. Fines would be issued, and licences will be revoked. This is an offshore/unregulated broker issue.\n\nThis is true for unregulated offshore brokers and they're endless scammy FX brokers, but for regulated retail FX brokers, all pricing techniques must be declared and fair for clients.\n\nBrokers making a market is not the same as a market maker algorithm on an exchange.\n\nForex brokers want to accept buy and sell flow collecting spreads and commissions, if any, whilst maintaining a balanced book, but they aggregate prices from liquidity providers like ECNs and LPs and offset any risk there. This is also a reason why prices differ for FX and CFDs on brokers.\n\nI will address these nuance before continuing.\n\nHonest, regulated brokers can disadvantage retail traders via wider spread markups, but they must be upfront and not quote with intent to harm; quote discrimination is also not allowed, and re-quotes via dealing desk brokers must be transparent, but those things can cost traders without being the criminal “stop hunts”, and although it's a conflict of interest with the client it's not the same as active predatory practices and quoting strategies.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "398247311547039755",
+              "name": "xvll_l",
+              "discriminator": "0000",
+              "nickname": "Xvll-L",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/398247311547039755/b13a75e1480994efa38ce738176e7b86.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1421516256556748984",
+      "type": "Default",
+      "timestamp": "2025-09-27T16:18:06.058+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1396165118085173430",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-07-19T17:21:43.645+01:00",
+        "timestampEdited": null,
+        "content": "An inductive approach is inferior.\n\nThe premise that humans and markets change does not mean that humans change in a  way which can be used to understand a changing market. This is already obvious though.\n\nIf you begin at the chart, then you are more likely to fall under the trap of ad hoc reasoning. Of course you understand this, but it is so important that I brought it up again. You are also likely to curve fit to the data itself because our brains have advanced pattern recognition capabilies and we can easily pick out the curve fitted rule which is best. We also tend to look out for rules seeminly work rather than rules that do not which again feeds into your pattern recognition tendencies. \n\nWe know that logical strategies work. We know price moves due to the underlying reason of imbalances. So figure out what imbalance you are looking for and what scenario could pop up that matches this imbalance. This makes it almost impossible to curve fit as you do not have a chart infront of you and it is grounded in logic as long as you question whether you are wrong more than whether you are right.\n\nInduction can be made to work, but it will always be inferior for most people due to how humans are. For me to say it is on par with deductive reasoning in strategy building would not be sensible given the number of people in the discord. It is a general thing. In general deductive>inductive. This accounts for all factors that could sway your strategy design.\n\nThe main issue is in how you build your reasoning.",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1421887424849645748",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2025-09-28T16:52:59.475+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1396690655316803764",
+        "channelId": "1396641437197533314",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1428852061591834795",
+      "type": "Default",
+      "timestamp": "2025-10-17T22:07:58.271+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1428791983337508988",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-10-17T18:09:14.499+01:00",
+        "timestampEdited": "2025-10-17T22:07:45.027+01:00",
+        "content": "**I believe the substance behind the trade matters more than the timeframe a trader chooses**\n\nIf you trade e.g., liquidity inefficiencies, and interpret unfinished auctions correctly, an edge is much easier to find.\n\nOnce you understand what market inefficiencies are and how they operate, it makes sense to avoid scalping lower timeframes.\n\n\"Noise\" isn't too helpful if a trader doesn't know the number one causations\n\nMarket makers skewing and pulling their quotes/limit orders, \nMMs neutralising their books\nTemporal, Sequential and Behavioural inefficiencies \n\nA lot of this noise comes from these anomalies that are exploited by algorithms using ticks and Level 3 data across microseconds. It’s nothing a retail trader could take advantage of, yet it’s responsible for candlestick wicks being one or two ticks longer, repeatedly, and so on.\n\nOn low timeframes this is the difference between a trade making a profit or a loss which happens far more often compared to higher timeframes because smaller stop sizes are used",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1430339137369800714",
+      "type": "Default",
+      "timestamp": "2025-10-22T00:37:04.765+01:00",
+      "timestampEdited": "2026-11-06T00:33:47.826+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Insights in what makes lasting, synergistic partnerships \uD83E\uDD1D IMAGE TEXT CONTENT: Discord member: That’s inspiring. A lot of people only talk trading, few actually build with each other. What made your collaboration click? SentientRon: Mutual interests besides trading and level-headedness Similar values and goals, especially long term. that's really good for synergy But also the pushback because i'm the person who challenges and pushes more, @SentientAli is more about order and rigour but that's really important because without that balance you limit your discovery ou'll notice Ali is more formal than I, especially in the papers. I write in a more conversational tone, Ali is more blunt. SentientAli: Im not here to entertain the masses Thats what ron doesnt understand Either youre here to learn or to play games I like those who want to learn and put effort in Because thats what made me succeed",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1430339136895848608",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1430339136895848608/image.png?ex=6aef0d60&is=6aedbbe0&hm=9e3a5638996fa226fe8375fa5d6fd6df5e9de54ee9fa8c73de253596fd0dc4d0&",
+          "fileName": "image.png",
+          "fileSizeBytes": 97395
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "476468174746026015",
+              "name": "passarakos",
+              "discriminator": "0000",
+              "nickname": "passarakos",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/476468174746026015/4b7f800b4dc9c7dac7451e7af58be7a6.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83E\uDD1D",
+          "code": "handshake",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg"
+        }
+      ]
+    },
+    {
+      "id": "1433840072901394514",
+      "type": "Default",
+      "timestamp": "2025-10-31T15:28:32.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1433803272744996885",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-10-31T13:02:18.999+00:00",
+        "timestampEdited": "2025-10-31T15:28:12.396+00:00",
+        "content": "**You cannot fool the market.**\n\nAlgos know that people are doing this. Every trader puts their stop just below the low, just above the high. The candlestick high/low will take your order anyway.\n\nIf cushioning your stop loss provided any benefit, the cost in R over time from factoring this in for every position usually averages out to close to zero because of the law of large numbers and that the adjustment(s) are typically random.\n\n**A lot of this is variance dressed up as control.**\n\nIf your hypothesis is wrong you'll be punished. If the market seeks liquidity during price discovery around your price, you'll be taken; the algos know.\n\nIf your trade idea is good and you see a wick being interacted with again as invalidation, it can be justified to put your stop at price structures.\n\n**How this looks on a chart + execution:**\n\nYou put your stop 2 ticks below the low, the price shoots 4 ticks+ below the low, you get filled 3 ticks below the low, getting 1 tick+ in slippage and your RRR is decreased for every trade by consistently putting your stop below the low instead of at the low.\n\nTo add, your fills and slippage will be worse if you put it just below the low and so on.\n\nThis behaviour will increase your costs, especially on retail FX, CFDs and other over-the-counter markets.",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1433840105860239541",
+      "type": "Default",
+      "timestamp": "2025-10-31T15:28:40.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1433811693758189648",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-10-31T13:35:46.725+00:00",
+        "timestampEdited": "2025-10-31T15:28:14.696+00:00",
+        "content": "**If you're going to use a price structure for stop losses (which I don't recommend), do this.**\n\nPut it exactly on the price structure's price, e.g., a wick low, because if liquidity is concentrated there, you're more likely to have immediate market participants on the other side available (Traders and/or MMs) to be your exit liquidity.\n\nFor example, a wick in one's favour on a stop out before the final dump or continuation (stops below the low).\n\n**How this looks on a chart:**\n\nThe stop loss is rejected perfectly, briefly going 2 ticks up. Your position is taken out at your requested price or better, and then the price continues lower anyway for example, 10 ticks below your stop order for a rebound.\n\n**I know it sounds like a counterintuitive psyop, but hear me out.**  \nUnless the amount you put below the 'high' or 'low' is overfitted, it won't increase the effectiveness of an effective system after costs most of the time. If you test it fairly you'll see.",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1446635233226002554",
+      "type": "Default",
+      "timestamp": "2025-12-05T22:51:56.784+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Do we take partials? \nNo\n\nDo we scale into trades on our systems? Yes if apart of the rules.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1446635232697516094",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1446635232697516094/Screenshot_20251205_225054_Discord.jpg?ex=6aef02cc&is=6aedb14c&hm=22bf3326384032973b12e912b6baa4c3ab920eb92e84f6bdc5e2a729f65cab13&",
+          "fileName": "Screenshot_20251205_225054_Discord.jpg",
+          "fileSizeBytes": 99955
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1446863428592468028",
+      "type": "Default",
+      "timestamp": "2025-12-06T13:58:42.799+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1446633894555287743",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2025-12-05T22:46:37.62+00:00",
+        "timestampEdited": "2025-12-06T13:58:36.216+00:00",
+        "content": "Q:\nCan I get into debt if something goes wrong when trading a live account?\n\nA:\nYes, you can, but it is extremely unlikely. There are many protective measures, such as margin calls, margin stop outs, and other limits, to prevent it.\n\nDebt is only a problem if you use leverage or short.\n\nTo get into debt you need to accumulate drawdown that exceeds your entire balance leaving you with a negative value. \n\nThis happens rarely but with high risk positioning or with extremely rare events e.g., flash crashes.\n\nWith futures brokers it is possible with flash crashes or large slippage against leveraged trades during news or gaps.\n\n**Example and nuances**\nIf you are 100x leveraged and price goes against your trade 2% instantly with a thin order book providing terrible execution (Extremely unlikely almost 0.0% chance intraday) you could find your account in a negative balance which you owe the difference to a broker/firm you are executing with.\n\n# Market level protections:\n**1. The consildated audit trail** prevents flash crashes on fututes by suspending suspicious order activities which cause them which make it less likely for intense spikes to take place.\n\n**2. Circuit breakers**\nThis stop the price from going down by around ~7% which halts all trading briefly avoiding which reduces the chance of debt accumulation and caps the potential damages.\n\n# Broker level protections\nUK FCA regulated brokers have negative balance protection when dealing with CFDs making debts impossible even with leverage if you are a retail client.\nZero debt risk\n\nIf you long only with zero leverage there is zero chance of owing more than your deposit.\n\nStop losses help mitigate debt risk by submitting your desires to exit earlier in the exchange's queue to get out. Another reason to use them.\n\nDebt for small traders (under 20m) is extremely unlikely unless overleveraged as we do not move the price as individuals.\n\nThis is not financial advice.",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1454931578135249039",
+      "type": "Default",
+      "timestamp": "2025-12-28T20:18:39.549+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Q: Hey man. I’ve read the first couple of chapters of your content, and I’ve enjoyed it up to now. Coming from a quantitative background, I respect and appreciate the inquisitive nature of your approach compared to the usual retail BS. I did have a question (kind of open-ended and perhaps even philosophical) regarding, for instance, the 3-wicks example. Is there scope for an even more rigorous way of testing the hypothesis that there is a wall of liquidity at a certain level? The order book would only get you so far, since many orders would be coming from ghost liquidity phenomena anyway.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1454932071071092766",
+      "type": "Reply",
+      "timestamp": "2025-12-28T20:20:37.074+00:00",
+      "timestampEdited": "2025-12-30T03:39:11.14+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A: Ghost liquidity doesn’t make the idea untestable, it just means you can’t treat the order book as the truth (one of many reasons why). There are order flow suites that would be able to show additional confirmation in real time (which we do not use).\n\n**I would look for this (If you want to up the rigour when testing)**\n1. Aggressive volume into the level without follow through (typically shown with the wicks)\n2. repeated failure to advance the best price despite trades printing (aligns with the wicks)\n3. momentary widening or compressing of spread at the level (bid-ask size changes on the underlying market)\n\nThis is not to measure ‘a wall of liquidity’ the aim in your case would be to measure whether current market state is legitimately showing signs of supply or demand is being met. When price drifts away from the area it leaves behind a failed auction (The wick is the tail).\n\nIn real time we do not try to confirm this but we anticipate it will happen under circumstances that are more likely to provide an edge due to the anticipated price regime.\n\n3 wicks just like any other formation is unlikely to have ‘predictive value’ without coincidence or overfitting in isolation after costs. 3 wicks are used to show potential absorption which is leveraged with other strategy components to create a positive expectancy strategy.\n\nThe absorption factor observed mechanically over a time series is how 3 wicks can provide signal, the underlying cause is what gives it value. For example, in a stretched market, three wicks can show that the liquidity (right now via sell limits) is being provided to buyers within the timeslot e.g., 15m bars, this indicates a failure to travel higher which can be used as as signal or in conjunction with another (post completion).",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1454932070622040198",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1454932070622040198/YM2.png?ex=6aeedf54&is=6aed8dd4&hm=ca3c9cc85c3ba8b0a39d7ee27d55d1243ef01ae2ef67c77a12cd5474fb0da57c&",
+          "fileName": "YM2.png",
+          "fileSizeBytes": 17366
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1454931578135249039",
+        "channelId": "1396641437197533314",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1455289151401230398",
+      "type": "Default",
+      "timestamp": "2025-12-29T19:59:31.659+00:00",
+      "timestampEdited": "2025-12-29T20:00:39.116+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Regarding edge decay. The following are a collection of questions and answers.\n\nQ: guys so i have been reading the docs and this question has been eating at me for a while now, If edge decay mainly happens at the derivative level and not at the establishment  level, how do you personally know when a derivative has genuinely decayed since it could just be a variance or a temporary regime shift, What evidence do you look for before deciding to redesign the derivative rather than abandon the underlying behaviour?\nit seems to me that edge decay is mostly a failure to redesign the derivative rather than the edge itself disappearing\nwhat im trying to say is IF a strategy stops working, what actually prevents a trader from designing a very similar derivative of the same establishment and continuing to extract edge, is there a constraint that stops that ?\nEdge decay is happening, your strat is no longer valid, need to adapt, is there a possibility that after a year that edge will again begin to work?\n\nA: Yes there is. Strategies that stopped working can begin to work again after a while. This is because it faced bad market conditions and not necessarily edge decay. So later on donw the line if the market springs back then it could work. This has happened many times with us. We tend to keep making new strategies all of the time anyway so we dont really go back to older ones very often.\n\nThe main point is that we can anticipate it by noticing that the startegy is degrading in terms of how it performs (winrate etc) and we can prepare the new strategy in time. The caveat is that we actually do not know for sure that it was indeed edge decay which caused the strategy to be unstable and unusable. Sometimes strategies begin working again months or years down the line, so it is worth retesting old strategies that you assumed had already decayed.",
+      "author": {
+        "id": "1376587708050309132",
+        "name": "sentientali",
+        "discriminator": "0000",
+        "nickname": "SentientAli",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 3,
+          "users": [
+            {
+              "id": "336487801128222720",
+              "name": "",
+              "discriminator": "0000",
+              "nickname": "",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/336487801128222720/52881d5a93968fbc28f030f4a956ad9e.png?size=512"
+            },
+            {
+              "id": "397777069368410123",
+              "name": "",
+              "discriminator": "0000",
+              "nickname": "",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/397777069368410123/3b90786300ca22dd57d37cf2dcaf41df.png?size=512"
+            },
+            {
+              "id": "785262767527034881",
+              "name": "",
+              "discriminator": "0000",
+              "nickname": "",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/785262767527034881/83818f0cef3908304f825a9ae3710b22.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1457112467183505661",
+      "type": "Default",
+      "timestamp": "2026-01-03T20:44:44.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Forward",
+        "messageId": "1457076565710995724",
+        "channelId": "1381766535164723230",
+        "guildId": "1376590321760207020"
+      },
+      "forwardedMessage": {
+        "timestamp": "2026-01-03T18:22:04.439+00:00",
+        "timestampEdited": "2026-01-03T20:44:38.402+00:00",
+        "content": "**Why** before **what** statements do not forbid generalisations. We added it to actively discourage casual observation forming into \"strategies\". We do this by prioritising precise, falsifiable definitions only. Otherwise, the foundations of the strategy have no basis, which is dangerous.\n\nStrategy engineering is lead with deductive reasoning.\n\nWe like this question because it's what the statement “why before what” is supposed to trigger throughout the material.\n\nIntraday mean reversion isn't a specific observation it's a generalisation with fundamental anchors (related to liquidity provision and the instrument's structure)\n\n“we observed X, therefore build Y”, is the inductive reasoning trap we actively warn against.\n\n**When a reader finishes the materials what they will think is:**\n\n1. I won't treat a pattern as an edge unless there is plausible mechanism for it to exist (now) and continue in the future (persist).\n\n2. I aim to test it thoroughly. Empirical observation can be one of the triggers, but it is not the sole justification.\n\n**And what the reader will get:**\n\n1. They will know the logic required to proceed\n\n2. They will have multiple mental decision trees to approach each action which can be accessed again whenever required in #⚜️︱education for reinforcement.\n\n\"This could be a behaviour worth investigating\" is the mindset, but it only earns a place in strategy engineering once we can articulate a market-mechanism \"why\" that would make it plausible.\n\n***In the documents we have talked about why YM mean reverts rigorously which aims to make it click for all readers. The Why-What principle is applied throughout the material***",
+        "attachments": [],
+        "embeds": [],
+        "stickers": []
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473429422874034196",
+      "type": "Default",
+      "timestamp": "2026-02-17T21:22:29.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# If new read this:\nhttps://medium.com/@SentientTradingSociety/understanding-our-terminology-what-we-mean-at-the-sentient-trading-society-03549e777956",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1473429423062646904",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1473429423062646904/1q6lOFbWALqU0ZVsXgLJEZQ.png?ex=6aeeedd5&is=6aed9c55&hm=ca9069bd7a278404c563fc7844127e85bdd862d00bc44f2829b86a736e30c79b&",
+          "fileName": "1q6lOFbWALqU0ZVsXgLJEZQ.png",
+          "fileSizeBytes": 91638
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473753290092052683",
+      "type": "Default",
+      "timestamp": "2026-02-18T18:49:25.37+00:00",
+      "timestampEdited": "2026-02-18T19:34:33.002+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Q: Why did you put the entry at candle 3's open instead of the void's wick on your youtube video price void example?\nA: The reason is that it has the potential to adapt to markets that mechanically revert less on lower timeframes (such as NQ) during sessions when volatility is actively increasing, e.g., 8-10 a.m. UK time, as shown in the video. The combination of these characteristics makes NQ more susceptible to price jumps, and the fill type increases compatibility under such conditions.\n\nThe reasoning is clear, but remember, this was designed on a whim for example purposes only. \nThis is not something I use.\n\nTo add\nYou can manipulate the formation to suit your needs but this must be done before testing it, not after testing it (to avoid  confirmation bias, overfitting and other mistakes)",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1473753289404190865",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1473753289404190865/image.png?ex=6aeec9f5&is=6aed7875&hm=90fa605415f53b39c3cf5dcdc1e09c5dd57250ac3a750b38550a37698436b18a&",
+          "fileName": "image.png",
+          "fileSizeBytes": 29192
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1473754075651903623",
+      "type": "Default",
+      "timestamp": "2026-02-18T18:52:32.662+00:00",
+      "timestampEdited": "2026-03-09T15:28:57.496+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Q: how does the difference between mean reversion and reversal affect entries?\nin both cases i want price to \"turn back\" for either a brief rebalance towards the mean or an entire shift of direction. Thus the difference in targets are clear to me, but is there also a difference in entry logic?\n\nA: For mean reversion you want to use an anchor such as an indicator to show a \"mean\" when price extends above it you look for shorts and when price extends below it you look for longs preferably within medium-low volatility conditions, your model will reflect these constraints in the entry process and other rules\n\nFor reversals you can use an anchor or price structure breaks to show overextension mechanically in medium-high volatility conditions, the goal is not to fade every single overextension and that is achieved with filtering.\n\n**The precision of the hours picked to get such volatility regimes on average adds to the edge. Each ounce of rigour contributes to greater efficiency.**\nVolatility Expansion Windows and Optimised Trading Windows are provided in our materials.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1480588168066502696",
+      "type": "Default",
+      "timestamp": "2026-03-09T15:28:47.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1480588167689277561",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1480588167689277561/Screenshot_20260309_152750_Chrome.jpg?ex=6aef43af&is=6aedf22f&hm=c843166b782da04875585376982d971bb33465a297db132fdc97f3ae1381618b&",
+          "fileName": "Screenshot_20260309_152750_Chrome.jpg",
+          "fileSizeBytes": 129118
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1481354312813776917",
+      "type": "Default",
+      "timestamp": "2026-03-11T18:13:10.407+00:00",
+      "timestampEdited": "2026-11-06T14:26:07.094+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Question:\nI saw a YouTuber make money by reversing bad trading signals. Why doesn’t inverting a bad strategy reliably produce profit?\n\nAnswer:\nThose videos always rely on a small sample size, as profitability after costs will naturally degrade because the signal’s randomness will tend to average out towards breakeven.\n\nWhen fading losing systems, I remember me and @SentientAli would finding losing automated systems and try reversing them many years ago. We found out the hard way.\n\nThe principle we learned was that if costs are not the primary reason for failure, then finding a persistently losing system with a meaningful negative skew is about as difficult as finding one with a positive skew (without overfitting).\n\n**Reversing bad signals is not a free edge.**\nWhen we were much younger, we heard anecdotal stories that seemed contrarian. Still, it wasn't enough to make us profitable.\n\nBelieving it was a viable way to beat the markets is an easy mistake to make. Now you know why it is not something to rely on.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "1376587708050309132",
+          "name": "sentientali",
+          "discriminator": "0000",
+          "nickname": "SentientAli",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1376595477113606156",
+              "name": "Sentient Owners",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1377377482902343892",
+              "name": "Knowledge Seekers",
+              "color": "#FFFFFF",
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1483116909527433216",
+      "type": "Default",
+      "timestamp": "2026-03-16T14:57:06.211+00:00",
+      "timestampEdited": "2026-03-16T15:38:59.03+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Question:\nOne of my systems had poor performance on the tests, what do I do?\n\nIt is important not to get emotionally attached to your system, you have put in the work, remain aware of the effects.\n\nBecause of sunk cost, we will naturally be reluctant to let go of each system that misaligns with what we want to see. You will recognise it and have cognitive dissonance. You must be efficient (quick).\n\nIf the strategy in a testing environment is seeing large negative cumulative RRRs exceeding 30R (for example), you need to analyse the logic and what the strategy’s job is.\n\nFor example, was it's job to follow trends, participate early in trends, target reversals or was it isolated around a specific event or behaviour?\n\nIf it seems to fit well with the market and the hours you are trading after secondary checks, the idea itself does not need reform (a complete change).\n\nSecondary check examples:\nwhether the market conditions matched the intended environment (was the market itself appropriate?)\n\nwhether the session or trading hours were appropriate (bad timing, poor results).\n\nwhether the strategy was exposed to unusual news-driven conditions (was the idea good, but executed in poor conditions or vice versa?)\n\nSometimes it can be edge decay from a radically different price regime caused by a news context etc, which collapses the edge (normal). In a similar but unrelated market, you would see divergence in performance. Positive performance there, negative before.\n\nIf, after secondary checks, you discover a misalignment, it is what it is, and you must move on and create other systems.\n\nEach person's circumstances are different, do not mimic others.\n\nWhen you find a solid system deploy using financially responsible approaches in ways that can realistically support your goals.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1483116943983640606",
+      "type": "Default",
+      "timestamp": "2026-03-16T14:57:14.426+00:00",
+      "timestampEdited": "2026-03-16T15:20:17.058+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# The -30R Cap Clarification\nCumulative negative RRRs exceeding 30R amplify the strategy's negative effects from costs in most cases, which is why we have never allowed it. \n\nUniversal rules have natural limitations.\n\nThe only way such drops are permitted is if the returns are exceptional, with the net returns being much higher, >5x the cumulative RRR in many cases (dependent on the instantaneous trading costs value, e.g., as seen on #♾️︱backtesting-sheet)\n\nThe >5x condition means the strategy’s net returns must be so large relative to that negative effect that the cost inefficiency doesn't destroy the edge (live returns).\n\n**Disclaimer:**\nIt is important to note that such high drawdowns are most likely inefficient, it is very rare you will build a strategy that reveals a cumulative drawdown exceeding 30R with exceptional upside results.\n\nTo see the visual impact of poor costs, you can review it in two minutes here.\nhttps://medium.com/the-investors-handbook/why-trading-fails-when-you-dont-account-for-costs-301a643ce57f",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1486550590438903820",
+      "type": "Default",
+      "timestamp": "2026-03-26T02:21:19.535+00:00",
+      "timestampEdited": "2026-06-27T10:57:02.508+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Question:\nDoes STS trade patterns?\n\nAnswer:\nEvery consistent trading signal is based on some kind of repeatable pattern, whether it is expressed through candlesticks, order flow, or predictive models.\n\nGuidelines on filtering what is acceptable have been attached.\n\nSome people use other entry methods too. As long as the base framework is understood, it can be expressed through other tools, including order flow.\n\nThis is a case of ordinary chart trading, versus trading grounded in mechanism, context, and testing.\n\nWe do not trust entries unless they are logically grounded, mechanically defined, and tested under realistic constraints and costs.\n\n**Here is a shortlist of distinct practices private STS traders apply:**\n1. We have risk isolation and withdrawal techniques to retain returns.\n2. We avoid overfitting (with fixed guardrails to avoid it)\n3. We reject flawed ideas with specific processes instead of relying on feel.\n4. We have procedures in place to manage an entry's randomness relative to price (time aspect).\n5. We produce mechanical definitions for consistency and reproducibility.\n6. We produce specific reasoning paths within the mechanical definitions to decrease path dependence (to stop a past trade's outcome interfering with a future trade's outcome).\n7. We accept the reality of edge decay acceptance and prepare for it in advance.\n8. We collect out-of-sample data (most traders do not bother).\n\nWe have others listed on our website:\nhttps://Sentienttradingsociety.com",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1486550590468128870",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1486550590468128870/image_1.png?ex=6aef33df&is=6aede25f&hm=6712091d91eef4470b8b438791ea49bc9f44092e0229ae123591664c30fc2310&",
+          "fileName": "image_1.png",
+          "fileSizeBytes": 893192
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1520367187347374090",
+      "type": "Default",
+      "timestamp": "2026-06-27T10:56:24.52+01:00",
+      "timestampEdited": "2026-11-06T00:33:07.357+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Question:\nHello @SentientAli  and @SentientRon  How do you conduct your research? and where do you find peer reviewed articles?  Google schoolar? if you find it How do you know that it is peer reviewed article?\n\nAnswer (Ali):\nScholar is fine but its just easier to use sites like elsevier, springer, taylor and francis and so on. You can filter by the journal you require and within that journal will be all of the useful articles. A paper in a journal like the journal of financial research. Papers on SSRN, arxiv and research gate are likely not peer reviewed as they are there to publish papers before the formal peer review process\n\nThe education has our understanding and we have also shared a few papers in the research channel so take a look. It takes quite a while to read research, so we just compiled our knowledge to make it easier for everyone to learn from it\n\nFollow up (Ron):\nMake sure you use the psychology principles we teach when interacting with online information to filter out noise. \n\nJust because a piece is peer reviewed does not mean that it is flawless, especially when studying subjects outside of financial markets.\n\nIt is important that you avoid just accepting information. Think about what each thing means for the market, instrument or event when you accept something.\n\nYou can only begin to truly innovate from peer reviewed work when you collect information from multiple sources and actively use it for inference to lean into or resist future ideas.\n\nAs a public STS member it is upto you how far you take this.\n\n**Researching Guidelines**",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "231881969250598913",
+          "name": "sentienttradingsociety",
+          "discriminator": "0000",
+          "nickname": "SentientRon",
+          "color": "#0088FF",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1393297380824322048",
+              "name": "SentientRon",
+              "color": "#0088FF",
+              "position": 26
+            },
+            {
+              "id": "1376595477113606156",
+              "name": "Sentient Owners",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1377377482902343892",
+              "name": "Knowledge Seekers",
+              "color": "#FFFFFF",
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+        },
+        {
+          "id": "1376587708050309132",
+          "name": "sentientali",
+          "discriminator": "0000",
+          "nickname": "SentientAli",
+          "color": "#E91E63",
+          "isBot": false,
+          "roles": [
+            {
+              "id": "1376595477113606156",
+              "name": "Sentient Owners",
+              "color": "#E91E63",
+              "position": 25
+            },
+            {
+              "id": "1377377482902343892",
+              "name": "Knowledge Seekers",
+              "color": "#FFFFFF",
+              "position": 17
+            }
+          ],
+          "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+        }
+      ],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1537939896688185446",
+      "type": "Default",
+      "timestamp": "2026-08-14T22:44:04.912+01:00",
+      "timestampEdited": "2026-08-14T22:54:27.308+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**Someone said:**\nI got a question, correct me if I'm wrong, but when u say that ICT loses its edge if saturated I'm confused because retail traders make up such a small fraction of total trading volume (and an even smaller fraction is ICT folk) and rarely move price significantly.\n\n**I said:**\nRetail traders don't need to move the market for saturation to matter. They only need to become sufficiently correlated in where and how they place orders that they create a locally concentrated liquidity area around commonly watched places. That can affect short-term price behaviour even if retail represents a tiny fraction of total volume.\n\nThey make up a small fraction of volume, but locally they can create meaningful but transient blocks of liquidity which influences liquidity dynamics briefly, but over enough ticks to influence the outcome of trades because of intraday noise (from changes in Market Maker quoting behaviour in response and from other participants that reposition in response).\n\nThis happens when there is a predictable crowd, millions of traders use ICT and up to 1000s are looking at the same individual \"PD array\" and intend to execute it in the same way with different volumes.\nMillions use it.\n\n***This is why it is important to create your own models.***",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1D",
+            "code": "handshake",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "274725144092737546",
+              "name": ".sr.quack",
+              "discriminator": "0000",
+              "nickname": "Quack",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/274725144092737546/375917cb3ff5ab545ed342a275d6902b.png?size=512"
+            },
+            {
+              "id": "478335820710019073",
+              "name": "dotblink",
+              "discriminator": "0000",
+              "nickname": "dotblink",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/478335820710019073/ddb71924eb827e7fa50b5f0c0f5b3960.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1538374048457949194",
+      "type": "Default",
+      "timestamp": "2026-08-16T03:29:14.76+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1538374047941922987",
+          "url": "https://cdn.discordapp.com/attachments/1396641437197533314/1538374047941922987/image.png?ex=6aef35ba&is=6aede43a&hm=75027919df8fc1e636f80ec34a1129dad7b866eb47ebe77df0f3edceb9ce5b2a&",
+          "fileName": "image.png",
+          "fileSizeBytes": 98556
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1540423576434516088",
+      "type": "Default",
+      "timestamp": "2026-08-21T19:13:20.308+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Why will you never trade with intuition?\nFor many traders, effectiveness is based on subjective experiences or extremely small sample sizes (dozens quantified at most, negligible), and there is globally no objective mechanical definition to enter position, place their target or stop.\n\nSubjectivity (e.g., from intuition) is lethal because you cannot prove that something is effective or ineffective with real stats if it is unfalsifiable (subjective), as what cannot be objectively defined makes variance between each signal extremely high over time, thus increasing randomness exponentially, this causes results to average out to zero minus transaction costs, this is why we actively avoid an intuitive discretionary path.\n\nThe more a strategy is influenced by noise the more the signal collapses.\nA structured strategy slowly morphs into random noise over dozens of real time trades if it has weak mechanical boundaries to operate within.\n\nThis early realisation is what made us never deviate from rule based systems and have strict guardrails to avoid overfitting that we still use to this day.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1544961602573307966",
+      "type": "Default",
+      "timestamp": "2026-09-03T07:45:50.052+01:00",
+      "timestampEdited": "2026-09-08T22:11:42.556+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "# Volatility\nMost hedge funds do not beat the S&P 500, what's the point of their existence?\n\nHedge funds have less return volatility, this is why they are used. No high net worth individual wants to lose >20% of their networth during market crashes, hedge fund risk structures are designed to mitigate this while producing positive returns over time.\n\nTo investors with dozens to hundreds of millions of USD to invest, a lower percentage return after costs with less volatility and much smaller drawdowns than the S&P 500 is a better deal because high net worth investors prioritise wealth preservation over growth.\n\nMany retail traders say \"most hedgefunds do not beat the s&p 500's % returns\" but context regarding their impressive return efficiency (less risk taken per % return) is often omitted.\n# Statistics\nSolo quants rarely make millions, but I can name multiple solo discretionary traders that do. (Anecdote fallacy).\n\n**Variance.**\nDiscretionary traders have a higher skew and take more cumulative risk, increasing the extremeness of the low tail (e.g., -99%) and high tail outcomes (e.g., 10000%+).\n\nWith enough iterations (millions), extreme positive-outcome outliers are guaranteed (just like in a standard bell-curve distribution), and the top 0.01% out of millions of tries are what are shown publicly. Over 85% of traders lose money trading derivatives.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 57
+}

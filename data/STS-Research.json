@@ -1,0 +1,1275 @@
+{
+  "guild": {
+    "id": "1376590321760207020",
+    "name": "Sentient Trading Society",
+    "iconUrl": "https://cdn.discordapp.com/icons/1376590321760207020/6fada855d989521b1c736f77426fb5f6.png?size=512"
+  },
+  "channel": {
+    "id": "1421893986347388998",
+    "type": "GuildTextChat",
+    "categoryId": "1473400602947223784",
+    "category": "Miscellaneous \uD83E\uDDEA",
+    "name": "\uD83D\uDD0D︱research",
+    "topic": "**This channel is for peer reviewed papers and institutional books only!**\nAnyone is free to post their favourites here. If you like a member's submission you can give it a \uD83D\uDC4D  and feel free to discuss them in the #trading-chat\uD83D\uDCAC \n\nA note explaining why you like your submission would be fantastic but it's not a requirement!\n\nNo piracy is allowed. If you like a book, name it, don't send pirate e-books here.\n\nA carefully selected list of peer reviewed papers and books have already been published in #Additional Reading & Academic Citation via #education"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "exportedAt": "2026-11-06T13:37:57.3216622+00:00",
+  "messages": [
+    {
+      "id": "1421899604718260284",
+      "type": "Default",
+      "timestamp": "2025-09-28T17:41:23.382+01:00",
+      "timestampEdited": "2025-09-28T17:55:33.19+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "**This channel is for peer reviewed papers and institutional books only!**\nAnyone is free to post their favorites here. If you like a member's submission you can give it a \uD83D\uDC4D  and feel free to discuss them in the #\uD83D\uDCAC︱trading-chat \n\nA note explaining why you like your submission would be fantastic but it's not a requirement!\n\nNo piracy is allowed. If you like a book, name it, don't send pirate e-books here.\n\nA carefully selected list of peer reviewed papers and books have already been published in #deleted-channel via #⚜️︱education",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "198197924411211776",
+              "name": ".sanchi",
+              "discriminator": "0000",
+              "nickname": "Sanchi [Chaos Rising]",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/198197924411211776/7fc4a17f21fa91b0e75770a03b7c2578.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": [
+        {
+          "id": "",
+          "name": "\uD83D\uDC4D",
+          "code": "thumbsup",
+          "isAnimated": false,
+          "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+        }
+      ]
+    },
+    {
+      "id": "1421899671084859593",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2025-09-28T17:41:39.205+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1421899604718260284",
+        "channelId": "1421893986347388998",
+        "guildId": null
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1421899739519254609",
+      "type": "Default",
+      "timestamp": "2025-09-28T17:41:55.521+01:00",
+      "timestampEdited": "2026-08-11T00:21:54.213+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pseudo-Mathematics and Financial Charlatanism: The Effects of Backtest Overfitting on Out-of-Sample Performance\n\n**Note: Sure, we know what over-fitting is, but this paper explores it rigorously to a microscopic level with additional commentary.**",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1421899739401683066",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1421899739401683066/ssrn-2308659.pdf?ex=6aeeac13&is=6aed5a93&hm=5f404356d6ff4996fbe730340dcc4015843ad85e53d3510767d87a47237f1308&",
+          "fileName": "ssrn-2308659.pdf",
+          "fileSizeBytes": 3030578
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1421899823472447499",
+      "type": "Default",
+      "timestamp": "2025-09-28T17:42:15.537+01:00",
+      "timestampEdited": "2025-09-28T17:59:38.562+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The value of control\nMoritz Reis, Roland Pfister, Katharina A. Schwarz\n\nNote: The innate feeling of needing to be in control of outcome in human psychology is the root of most trading pain & desire for discretion in trading.\n\n**This paper shows that perceived control is a powerful motivator and people will often give up benefits to feel in control, even if it's less rewarding financially.**",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1421899823140962564",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1421899823140962564/Behavioral_Decision_Making_-_2023_-_Reis_-_The_value_of_control.pdf?ex=6aeeac27&is=6aed5aa7&hm=c1afd2ac686e800d029c9ccd6f21cbe4ece5924448d57331e459396de2d65591&",
+          "fileName": "Behavioral_Decision_Making_-_2023_-_Reis_-_The_value_of_control.pdf",
+          "fileSizeBytes": 517482
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1422910393252053093",
+      "type": "Default",
+      "timestamp": "2025-10-01T12:37:54.148+01:00",
+      "timestampEdited": "2025-10-01T12:40:42.137+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "How Learning About Behavioural Biases Improves Financial Literacy\nFrancisco Pitthan, K. De Witte\n\nNote: Knowledge about logical fallacies can support discipline in live trading and adherence to set, logical plans. \n\nThis paper is the closest peer reviewed example I could find which has research, not opinion. Although it's a behavioural finance paper it's not directly related to real-time decision making in markets which is why it's not included in #deleted-channel  \n\nThis study still shows clear mitigation in short-sighted biases in financial decision making which is quite close.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1422910393420091452",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1422910393420091452/ssrn-4360086.pdf?ex=6aef0d92&is=6aedbc12&hm=e93dbfdea304178cb46daa3df26ac82b68007783fd452373c87a35831c17ca5a&",
+          "fileName": "ssrn-4360086.pdf",
+          "fileSizeBytes": 693555
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1423026506602516591",
+      "type": "Default",
+      "timestamp": "2025-10-01T20:19:17.728+01:00",
+      "timestampEdited": "2025-10-01T20:20:25.369+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "***Do Individual Day Traders Make Money?\nEvidence from Taiwan***\n\nThere is a paper that I like to refer to often; that has some eye-opening insights for new traders; specifically about the number of profitable day traders (reality) vs (reported): the final number IIRC is around 0.3% make better than minimum wage after 2y.\n\nI don' know if it's peer-reviewed; as it's not citing references and it's multi-disciplinary - \nHowever it does appear to be a serious paper, on the Berkeley paper/release website; so it's as good as any and better than most (in terms of probably legit)\n\nhttps://faculty.haas.berkeley.edu/odean/papers/Day%20Traders/Day%20Trade%20040330.pdf",
+      "author": {
+        "id": "188217239525130250",
+        "name": "hotmatrixx",
+        "discriminator": "0000",
+        "nickname": "hotmatrixx",
+        "color": null,
+        "isBot": false,
+        "roles": [],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/188217239525130250/1edbd9e142f144dc5d1abdaac4015a0d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1423301198227701780",
+      "type": "Default",
+      "timestamp": "2025-10-02T14:30:49.315+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "**The Profitability of Technical Analysis: A Review by Cheol-Ho Park, Scott H. Irwin**\n\nNote: This paper exposes the inconsistency and lack in edge if any for traditional technical analysis patterns. We choose to refute it through a more rigorous lens because people can argue that everyone analyses price differently and so on.\n\nWe believed a collection of papers and references about data snooping etc. would be more helpful. This paper also mentions it but I think that individual aspects, definitions and data analysis concepts should be understood on the surface before diving into more complex matters.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1423301197863063562",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1423301197863063562/ssrn-603481.pdf?ex=6aef2809&is=6aedd689&hm=b842ff0b21336d7636e83356c9ae26c23da38016a5f4220f94aac7496e15d06d&",
+          "fileName": "ssrn-603481.pdf",
+          "fileSizeBytes": 547856
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "785262767527034881",
+              "name": "antoinex",
+              "discriminator": "0000",
+              "nickname": "AntoineX",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/785262767527034881/83818f0cef3908304f825a9ae3710b22.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1423440361476325517",
+      "type": "Default",
+      "timestamp": "2025-10-02T23:43:48.419+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "WARNING! Slightly more advanced than normal.\n\nThe existence of this paper (and others like it) made me smile a few years back. \n\nAs some of you know, me and Ron do have our proprietary things we use. One is the withdrawal optimisation. I figured out (with similar methods to this paper) the best time to withdraw money for a strategy to maximise returns and minimise edge decay negative effects. The optimal point to withdraw allows for you to make far more money over many months than you would have if you withdrew at random tines.\n\nThe paper does not have the same boundary conditions that I had to apply for trading as we do it, but the process of derivation is similar in some areas. And for those that this makes sense to, my solution was luckily a closed form one. It was beautiful, but a bit hefty.  \n\nIf you are up for a challenge, read some of this paper.",
+      "author": {
+        "id": "1376587708050309132",
+        "name": "sentientali",
+        "discriminator": "0000",
+        "nickname": "SentientAli",
+        "color": "#E91E63",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/1376587708050309132/98df0e76224b44965b9f389f32eb1351.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1423440361581314109",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1423440361581314109/Optimal_Stopping_Paper76.pdf?ex=6aef00e4&is=6aedaf64&hm=316f88b34472b7db0855de2abcfd26573df1a184b287a0d6e4438b3f8ae6f67a&",
+          "fileName": "Optimal_Stopping_Paper76.pdf",
+          "fileSizeBytes": 273234
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 4,
+          "users": [
+            {
+              "id": "231881969250598913",
+              "name": "sentienttradingsociety",
+              "discriminator": "0000",
+              "nickname": "SentientRon",
+              "color": "#0088FF",
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+            },
+            {
+              "id": "397777069368410123",
+              "name": "",
+              "discriminator": "0000",
+              "nickname": "Nika",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/397777069368410123/3b90786300ca22dd57d37cf2dcaf41df.png?size=512"
+            },
+            {
+              "id": "580405603055173647",
+              "name": "1v.an",
+              "discriminator": "0000",
+              "nickname": "Ivan",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/580405603055173647/2404c8e77df1167adf17a0300e4878ab.png?size=512"
+            },
+            {
+              "id": "1232320089341165729",
+              "name": "trulylq",
+              "discriminator": "0000",
+              "nickname": "Zeriliz",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/1232320089341165729/6fe124a62088fce40cf88e6fbcf616ff.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1430514411562598421",
+      "type": "Default",
+      "timestamp": "2025-10-22T12:13:33.389+01:00",
+      "timestampEdited": "2025-10-22T12:14:52.748+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A book discussing financial market bubbles\n\nhttps://www.cambridge.org/core/books/boom-and-bust/bubble-triangle/69A0FE87E88998B0C2EF57167B4CF235",
+      "author": {
+        "id": "397777069368410123",
+        "name": "",
+        "discriminator": "0000",
+        "nickname": "",
+        "color": "#FFFFFF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/397777069368410123/3b90786300ca22dd57d37cf2dcaf41df.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1431428007171588156",
+      "type": "Default",
+      "timestamp": "2025-10-25T00:43:51.556+01:00",
+      "timestampEdited": "2025-10-25T00:54:14.041+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This a paper on market noise on the NYSE",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1431428006903021598",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1431428006903021598/HIGH_FREQUENCY_MARKET_MICROSTRUCTURE_NOISE.pdf?ex=6aef0ef7&is=6aedbd77&hm=5312d63e9256aaf7db700e2fb50ded4240e4a01aca4094010267f21cfcde3ffc&",
+          "fileName": "HIGH_FREQUENCY_MARKET_MICROSTRUCTURE_NOISE.pdf",
+          "fileSizeBytes": 462998
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1431428390707138784",
+      "type": "Default",
+      "timestamp": "2025-10-25T00:45:22.998+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1431428390141038693",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1431428390141038693/image.png?ex=6aef0f52&is=6aedbdd2&hm=04851988353c4ae91210520dd807a92be4135048384af54d3c122e79ee5a8d67&",
+          "fileName": "image.png",
+          "fileSizeBytes": 35154
+        },
+        {
+          "id": "1431428390480511027",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1431428390480511027/image.png?ex=6aef0f52&is=6aedbdd2&hm=41757d06cb4ba3ff64d8187aeeb0899834fd908a173196a711db0db05c3d8b0a&",
+          "fileName": "image.png",
+          "fileSizeBytes": 43634
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1465339606932258993",
+      "type": "Default",
+      "timestamp": "2026-01-26T13:36:26.986+00:00",
+      "timestampEdited": "2026-03-17T05:10:54.512+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A Federal Reserve publication that contains valuable numbers surrounding volatility (separated by the hour), used repeatedly in the past 2020-22, i am now revisiting it to pull specific numbers.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1465339606684926262",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1465339606684926262/sr917.pdf?ex=6aef295a&is=6aedd7da&hm=333fb8ca7d7baa3aa71ab54b3389c6910fb119dcfca4f478169d459e7513678c&",
+          "fileName": "sr917.pdf",
+          "fileSizeBytes": 3881868
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1465339702080180335",
+      "type": "Default",
+      "timestamp": "2026-01-26T13:36:49.671+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1465339701786317035",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1465339701786317035/IMG_20260126_133242_956.jpg?ex=6aef2971&is=6aedd7f1&hm=ecdcc1ccbf41a48bbf0acc1b1a3067daf7346af10023d9c06024c2e67b22dae5&",
+          "fileName": "IMG_20260126_133242_956.jpg",
+          "fileSizeBytes": 110992
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1465340412485959908",
+      "type": "Reply",
+      "timestamp": "2026-01-26T13:39:39.045+00:00",
+      "timestampEdited": "2026-01-26T13:46:38.28+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A theory of intraday patterns: volume and price variability was published in The Review of Financial Studies in 1988\n\nPreviously cited in #⚜️︱education \nThe understanding of session opens, closes and the shocks they produce are used in conjunction with the insights the Federal Reserve's values provide for electronic markets.\nThe principles remain the same.\n\n #⚜️︱education I will soon produce figures to process and simplify the information without losing its signal. The benefit its understanding provides are more optimal hours.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1465340412183974022",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1465340412183974022/AdmatiPfleiderer88.pdf?ex=6aee815a&is=6aed2fda&hm=96a003a94d15b8262e270b4c5f5f0219c50c19c67acf6c2406cc620b746c9f17&",
+          "fileName": "AdmatiPfleiderer88.pdf",
+          "fileSizeBytes": 5003936
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1465339606932258993",
+        "channelId": "1421893986347388998",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1478979308138795008",
+      "type": "Default",
+      "timestamp": "2026-03-05T04:55:45.167+00:00",
+      "timestampEdited": "2026-03-05T17:41:35.407+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "JustLogic: A Comprehensive Benchmark for Evaluating Deductive Reasoning in Large Language Models (2025)\n\nThis paper alongside others show us that modern AI/LLMs such as GPT have weaker deductive reasoning when compared to the average human. \n\nDeductive reasoning paths, as stated in our materials is an important component for creating real, robust trading edges.\n\nIn plain terms:\nThis publication shows that models scores noticeably below the human average for the deductive branch of intelligence which confirmed my suspicions. This is why I don't like to do nuanced reasoning or research with AI and neither should any member. Our brains are superior, atleast for now.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1478979307819896844",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1478979307819896844/JustLogic_A_Comprehensive_Benchmark_for_Evaluating.pdf?ex=6aeeaf51&is=6aed5dd1&hm=97b44c15662cc4d5fd5dd9d150eb74b180e0a8e2e3b35627ebd5bc9fb7f1f968&",
+          "fileName": "JustLogic_A_Comprehensive_Benchmark_for_Evaluating.pdf",
+          "fileSizeBytes": 2088806
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDD25",
+            "code": "fire",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f525.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "657247634112774144",
+              "name": "manuch0",
+              "discriminator": "0000",
+              "nickname": "Manuh",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/657247634112774144/6f0fdeb7d8902458b11e0836133d8a65.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1479204027739803761",
+      "type": "Reply",
+      "timestamp": "2026-03-05T19:48:42.495+00:00",
+      "timestampEdited": "2026-03-05T21:49:19.7+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Context:\n\nThis was shown when testing LLMs with logic puzzles; this efficiency is dependent on raw thinking ability. AI, such as GPT, underperforms the average human by many percentage points when asked directly with a single prompt and no worked examples (0-shot). Models still tend to underperform the average human even when the model is instructed to write out its reasoning steps or is prompted in a way that encourages step-by-step reasoning before outputting the final answer (Chain-of-Thought CoT). \n\nIt is comparable to the average human being, and I believe that if you have read this far, you have intelligence beyond that threshold.\nIn the public materials this will be discussed in more detail.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1479204027647660235",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1479204027647660235/image.png?ex=6aeed7da&is=6aed865a&hm=1db8c5078cad405dce6321aa6d61ac4c3a2457eec47eece0a4641dbc39fdf13a&",
+          "fileName": "image.png",
+          "fileSizeBytes": 199419
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1478979308138795008",
+        "channelId": "1421893986347388998",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1480022912659624037",
+      "type": "Default",
+      "timestamp": "2026-03-08T02:02:39.874+00:00",
+      "timestampEdited": "2026-03-08T04:52:23.726+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pencil Puzzle Bench: A Benchmark for Multi-Step Verifiable Reasoning (March 2026)\nAnother paper on weak AI reasoning (recent SOTA models)",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1480022912181469317",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1480022912181469317/2603.02119v1.pdf?ex=6aee86bf&is=6aed353f&hm=0564b9348070ec35892aacf7354ba9bce14f169a2c381bcd5aacb66d48867670&",
+          "fileName": "2603.02119v1.pdf",
+          "fileSizeBytes": 1233052
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1480023001830522891",
+      "type": "Reply",
+      "timestamp": "2026-03-08T02:03:01.134+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1480023001381736621",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1480023001381736621/LLMslow_pencil.png?ex=6aee86d5&is=6aed3555&hm=ed042c7507d9deff41822cf78819c2453dd79425a10690023000939541863f5a&",
+          "fileName": "LLMslow_pencil.png",
+          "fileSizeBytes": 163861
+        },
+        {
+          "id": "1480023001851363418",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1480023001851363418/LLMslow_pencil2.png?ex=6aee86d5&is=6aed3555&hm=d5cf8a48aa0283b67ad6bb2c5802bddbb899a8f3942bcda85dfffac0f13d3b6a&",
+          "fileName": "LLMslow_pencil2.png",
+          "fileSizeBytes": 127885
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1480022912659624037",
+        "channelId": "1421893986347388998",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1536514840225521735",
+      "type": "Reply",
+      "timestamp": "2026-08-11T00:21:24.975+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Central pieces we read years ago that supports our modern framework for how we interpret price movements and structure strategies around them.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1536514839311028234",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1536514839311028234/sirignano2019.pdf?ex=6aef09b4&is=6aedb834&hm=b1700be07ba5488dce981ee06ccbdfc9fd9584b35073c82b5cf34db4052e9909&",
+          "fileName": "sirignano2019.pdf",
+          "fileSizeBytes": 1452041
+        },
+        {
+          "id": "1536514839659159622",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1536514839659159622/cont2013.pdf?ex=6aef09b4&is=6aedb834&hm=e83bee352a55c750e7c5cdc1a6b3ca8516a484d63e9a80732eeb946a7089ca92&",
+          "fileName": "cont2013.pdf",
+          "fileSizeBytes": 1441057
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1D",
+            "code": "handshake",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91d.svg"
+          },
+          "count": 2,
+          "users": [
+            {
+              "id": "336487801128222720",
+              "name": "bozhee",
+              "discriminator": "0000",
+              "nickname": "Bozhee",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/336487801128222720/52881d5a93968fbc28f030f4a956ad9e.png?size=512"
+            },
+            {
+              "id": "478335820710019073",
+              "name": "dotblink",
+              "discriminator": "0000",
+              "nickname": "dotblink",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/478335820710019073/ddb71924eb827e7fa50b5f0c0f5b3960.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "reference": {
+        "type": "Default",
+        "messageId": "1465340412485959908",
+        "channelId": "1421893986347388998",
+        "guildId": "1376590321760207020"
+      },
+      "inlineEmojis": []
+    },
+    {
+      "id": "1543129305398382693",
+      "type": "Default",
+      "timestamp": "2026-08-29T06:24:56.363+01:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A peer reviewed submission demonstrating how increased algorithmic behaviour amplifies market efficiency.",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1543129305046065222",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1543129305046065222/chaboud2014.pdf?ex=6aeeb628&is=6aed64a8&hm=0ec827bcbb3e177bc79482c4e8d0b0aa3d96d00365683f0af0c47127e9eee2c7&",
+          "fileName": "chaboud2014.pdf",
+          "fileSizeBytes": 986747
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "478335820710019073",
+              "name": "dotblink",
+              "discriminator": "0000",
+              "nickname": "dotblink",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/478335820710019073/ddb71924eb827e7fa50b5f0c0f5b3960.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    },
+    {
+      "id": "1543129438819192932",
+      "type": "Default",
+      "timestamp": "2026-08-29T06:25:28.173+01:00",
+      "timestampEdited": "2026-08-29T06:27:42.274+01:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "A peer reviewed submission which shows the noise in currency market price discovery (a key reason why we avoid trading FX).",
+      "author": {
+        "id": "231881969250598913",
+        "name": "sentienttradingsociety",
+        "discriminator": "0000",
+        "nickname": "SentientRon",
+        "color": "#0088FF",
+        "isBot": false,
+        "roles": [
+          {
+            "id": "1393297380824322048",
+            "name": "SentientRon",
+            "color": "#0088FF",
+            "position": 26
+          },
+          {
+            "id": "1376595477113606156",
+            "name": "Sentient Owners",
+            "color": "#E91E63",
+            "position": 25
+          },
+          {
+            "id": "1377377482902343892",
+            "name": "Knowledge Seekers",
+            "color": "#FFFFFF",
+            "position": 17
+          }
+        ],
+        "avatarUrl": "https://cdn.discordapp.com/avatars/231881969250598913/591ea42f9528877deac6b09745316c53.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1543129438319943820",
+          "url": "https://cdn.discordapp.com/attachments/1421893986347388998/1543129438319943820/king2013.pdf?ex=6aeeb648&is=6aed64c8&hm=073940023ea7bedfeaa25818dc73f4906317a4d93fc116e1e23d3062ecbd65cf&",
+          "fileName": "king2013.pdf",
+          "fileSizeBytes": 523938
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1,
+          "users": [
+            {
+              "id": "478335820710019073",
+              "name": "dotblink",
+              "discriminator": "0000",
+              "nickname": "dotblink",
+              "color": null,
+              "isBot": false,
+              "avatarUrl": "https://cdn.discordapp.com/avatars/478335820710019073/ddb71924eb827e7fa50b5f0c0f5b3960.png?size=512"
+            }
+          ]
+        }
+      ],
+      "mentions": [],
+      "inlineEmojis": []
+    }
+  ],
+  "messageCount": 21
+}
