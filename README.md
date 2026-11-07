@@ -9,7 +9,8 @@ The authors, Ron and Ali, have spent over 500 hours writing and refining these m
 
 ## Contents
 - `data/STS-Public-Materials.md` - An LLM-friendly overview followed by the entire public STS materials.
-- `data/STS-Research.json` - An LLM-friendly JSON file containing the additional research we have encouraged our members to explore.
+- `data/CFD-Microstructure-And-Brokers.md` - This document goes over CFD microstructure and the reality behind regulated retail brokerage execution policies.
+- `data/STS-Research.json` - A file containing the additional research we have encouraged our members to explore.
 - `data/STS-Questions-And-Answers.json` -  This dataset includes our granular Q&A initiatives, which include voice notes and image text content for full LLM comprehension. Noisy chat artefacts and unnecessary image context have been omitted for AI digestion, but they are still visible and formatted on Discord.
 
 ## Format
