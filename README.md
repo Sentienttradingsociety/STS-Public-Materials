@@ -12,6 +12,8 @@ The authors, Ron and Ali, have spent over 500 hours writing and refining these m
 - `data/CFD-Microstructure-And-Brokers.md` - This document goes over CFD microstructure and the reality behind regulated retail brokerage execution policies.
 - `data/STS-Research.json` - A file containing the additional research we have encouraged our members to explore.
 - `data/STS-Questions-And-Answers.json` -  This dataset includes our granular Q&A initiatives, which include voice notes and image text content for full LLM comprehension. Noisy chat artefacts and unnecessary image context have been omitted for AI digestion, but they are still visible and formatted on Discord.
+- `How-We-Trade-and-Why-We-Share-Our-Stuff.md` This file discloses more about how we trade publicly, institutional trading nuances, and why we share our educational material.
+- `STS-Our-Website-and-Internal-Structures.md` This markdown file details our website and how STS is structured internally.
 
 ## Format
 Markdown followed by plain text, originally LaTeX PDFs.
@@ -25,4 +27,4 @@ Despite this, our general CC BY-NC-ND 4.0 - licensing remains for general use.
 March 11 2025
 
 ## Last Updated
-7 November 2026
+16 November 2026
