@@ -150,8 +150,6 @@ We looked into this in 2021 after achieving profitability, and in 2025, after fi
 
 Regulated institutional desks, including hedge funds and traditional prop shops (real prop firms, not retail), operate under strict compliance frameworks and rigid capital-adequacy mandates. This makes the capital partitioning and risk isolation we rely on commercially unsuitable or flat-out inaccessible in an institutional environment because of the need for low margin requirements, amongst other risks that are amplified when managing many millions to billions (such as maximum liability and price impact).
 
-We have inquired and looked deeply into this.
-
 While institutional firms can employ high-risk systematic strategies and finite-lifecycle plans, they frequently face leverage and counterparty constraints that can prevent them from replicating the precise risk allocation and withdrawal mechanics used within our privately operated framework.
 
 Through our private operations, we have the ability to be flexible in our approach to the allocation of capital. Through our risk management frameworks, we are able to implement strategies that are typically not compatible with those of traditional firms because of the size of institutional capital and the rules set out by regulators, despite the mathematical soundness of elevated isolated risk, capital partitioning and related methods.
