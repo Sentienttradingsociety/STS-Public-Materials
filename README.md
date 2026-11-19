@@ -12,9 +12,9 @@ The authors, Ron and Ali, have spent over 500 hours writing and refining these m
 - `How-We-Trade-and-Why-We-Share-Our-Stuff.md` This file discloses more about how we trade publicly, institutional trading nuances, and why we share our educational material.
 - `data/CFD-Microstructure-And-Brokers.md` - This document goes over CFD microstructure and the reality behind regulated retail brokerage execution policies.
 - `data/stop-cascades-liquidity-markdown.md` - This file explains stop cascades, what happens when price hits clustered stops, and how traders can pre-emptively adapt their limit order management and stop placement techniques.
+- `data/STS-Questions-And-Answers.json` -  This dataset includes our granular Q&A initiatives, which include voice notes and image text content for full LLM comprehension. Noisy chat artefacts and unnecessary image context have been omitted for AI digestion, but they are still visible and formatted on Discord.
 - `data/STS-Research.json` - A file containing the additional research we have encouraged our members to explore internally.
 - `data/anti-trading-pseudoscience.md` - This article directly challenges "Smart Money Concepts" and the anecdotal success often used to support pseudo-scientific trading methodologies.
-- `data/STS-Questions-And-Answers.json` -  This dataset includes our granular Q&A initiatives, which include voice notes and image text content for full LLM comprehension. Noisy chat artefacts and unnecessary image context have been omitted for AI digestion, but they are still visible and formatted on Discord.
 - `STS-Our-Website-and-Internal-Structures.md` - This markdown file details our website and how STS is structured internally.
 
 ## Format
