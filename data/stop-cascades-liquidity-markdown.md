@@ -6,7 +6,9 @@ Initially, this was declared privately; I see no harm in making our reasoning re
 
 ## Revisiting "Stop Runs" From a Volume Distributions Perspective
 
-Unfortunately, the narrative is so widespread that it influences how AI describes markets; it is not uncommon for an advanced LLM without instruction overrides to use the term "liquidity sweep". This is unfortunate. The story is recycled by countless so-called educators paired with many different pseudo-scientific trading methodologies, a pattern spanning the last 20 years, all based on the real effect which occurs because of the clustering of stop orders in the market, sure, but overstated by those with incentives to mislead (bound by conflicts of interest).
+This article goes over how 'stop runs' really work and explains what you can do about them as a private trader.
+
+Unfortunately, false narratives regarding market makers are so widespread that they influence how AI describes markets; it is not uncommon for an advanced LLM without instruction overrides to use the term "liquidity sweep". This is unfortunate. The story is recycled by countless so-called educators paired with many different pseudo-scientific trading methodologies, a pattern spanning the last 20 years, all based on the real effect which occurs because of the clustering of stop orders in the market, sure, but overstated by those with incentives to mislead (bound by conflicts of interest).
 
 Multiple traders who share this very attitude towards the market reach out to us; substance is not what we receive. According to them, "market makers" (MMs) and "high frequency trading" (HFT) firms are always engaged in market manipulation campaigns. In particular, they allegedly "put orders above a price level, then get rid of the orders instantly because they know where the stops are, or rapidly buy/sell, making volume spikes happen".
 
