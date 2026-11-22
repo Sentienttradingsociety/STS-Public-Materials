@@ -107,7 +107,7 @@ Net result: $5,952 gain, 59.52% (10k)
 
 **The difference versus the default lump sum:**
 
-$3,699 more profit compared to the $10k lump-sum account, which mixed both strategies for a net profit of ≈$2.25k, demonstrating a 164% increase in profits from strategy risk isolation and STS-style capital partitioning (59.5% net versus 22.5%).
+$3,699 more profit compared to the $10k lump-sum account, which mixed both strategies for a net profit of ≈$2.25k, demonstrating a 164% increase in profits from strategy risk isolation and STS-style capital partitioning (59.5% net versus 22.5%). The magnitude of improvements from adopting our risk management styles is not universal, and will vary depending on the strategies involved and their respective dependencies.
 
 As profound as this may seem, it is just one of five basic layers that work together to complement our other foundational processes, as described below.
 
