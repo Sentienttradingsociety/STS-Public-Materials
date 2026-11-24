@@ -81,9 +81,10 @@ $7424.00 gain vs $6502.40 is a 14.2% increase in gains from risk isolation.
 
 Local jumps in percentages do not need to be as extreme to benefit; a 10x % upscaling in exchange for a global 90% reduction to capital at risk was used to make comparisons clear. For example, the capital could be reduced by 66.66% (2/3), and the person could trade with 3–5x the percentage risk depending on the strategy's risk profile.
 
-**Across 100 trades on this strategy’s stats at 8% risk, there is around a 25% chance of a local drawdown reaching 50% or more (-5% of total capital), while the remaining of the trader’s operating capital (90%) remains untouched.**
+The demonstrated differences in compounding are real when inserted into a defined risk container intentionally.
 
-**$800 risk executed on $10,000 is materially only 0.8% of the $100,000 total capital at the start, and the rest of the capital is separated to isolate drawdowns; a bad run is exposed only to the active partition while the remaining $90,000 reserve stays untouched.**
+**Across 100 trades on this strategy’s stats at 8% risk, there is around a 25% chance of a local drawdown reaching 50% or more (-5% of total capital), while the remaining trader’s operating capital (90%) remains untouched. $800 risk executed on $10,000 is materially only 0.8% of the $100,000 total capital at the start, while the rest of the capital is separated to isolate drawdowns.
+A bad run is exposed only to the active partition (10%), while the remaining $90,000 reserve remains in banks or in multiple different trading accounts executing different trading strategies.**
 
 This can create a curve where winning runs grow capital faster than losing runs shrink it, known in quantitative finance as convexity.
 
