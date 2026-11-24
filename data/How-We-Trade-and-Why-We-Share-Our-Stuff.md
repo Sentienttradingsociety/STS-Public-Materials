@@ -79,7 +79,7 @@ $7424.00 gain vs $6502.40 is a 14.2% increase in gains from risk isolation.
 
 8% risk on $10,000 over 100 trades = $248,399 in gains (median)
 
-Local jumps in percentages do not need to be as extreme to benefit; a 10x % upscaling in exchange for a global 90% reduction to capital at risk was used to make comparisons clear.
+Local jumps in percentages do not need to be as extreme to benefit; a 10x % upscaling in exchange for a global 90% reduction to capital at risk was used to make comparisons clear. For example, the capital could be reduced by 66.66% (2/3), and the person could trade with 3–5x the percentage risk depending on the strategy's risk profile.
 
 **Across 100 trades on this strategy’s stats at 8% risk, there is around a 25% chance of a local drawdown reaching 50% or more (-5% of total capital), while the remaining of the trader’s operating capital (90%) remains untouched.**
 
