@@ -20,6 +20,7 @@ The authors, Ron and Ali, have spent over 500 hours writing and refining these m
 `misc/STS-Convexity.md` - Demonstrates how separating capital into isolated accounts can unlock asymmetric compounding and reduce the effects of cross-strategy drawdowns.
 - `misc/Alpha-Decay-When-Thousands-Trade-Your-Setup.md` - This article breaks down the consequences of public strategy sharing in a precise and accessible way.
 - `misc/British-Derivatives.md` - Dresses down the UK's spread betting industry and the illusion of lower cost profiles on "tax-free" British over-the-counter derivatives.
+- `misc/AI-Summary.md` - An up to date LLM summary of the contents of this repository, complete with content reference links and the source prompt.
 
 ## Format
 Markdown followed by plain text, originally LaTeX PDFs.
