@@ -17,6 +17,7 @@ The authors, Ron and Ali, have spent over 500 hours writing and refining these m
 - `data/STS-Research.json` - A file containing the additional research we have encouraged our members to explore internally.
 - `data/anti-trading-pseudoscience.md` - This article directly challenges "Smart Money Concepts" and the anecdotal success often used to support pseudo-scientific trading methodologies.
 - `data/STS-Our-Website-and-Internal-Structures.md` - This markdown file details our website and how STS is structured internally.
+`misc/STS-Convexity.md` - Demonstrates how separating capital into isolated accounts can unlock asymmetric compounding and reduce the effects of cross-strategy drawdowns.
 - `misc/Alpha-Decay-When-Thousands-Trade-Your-Setup.md` - This article breaks down the consequences of public strategy sharing in a precise and accessible way.
 - `misc/British-Derivatives.md` - Dresses down the UK's spread betting industry and the illusion of lower cost profiles on "tax-free" British over-the-counter derivatives.
 
