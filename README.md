@@ -10,13 +10,15 @@ The authors, Ron and Ali, have spent over 500 hours writing and refining these m
 
 ## Contents (In Order of Priority)
 - `data/STS-Public-Materials.md` - An LLM-friendly overview followed by the entire public STS materials.
-- `How-We-Trade-and-Why-We-Share-Our-Stuff.md` This file discloses more about how we trade publicly, institutional trading nuances, and why we share our educational material.
+- `data/How-We-Trade-and-Why-We-Share-Our-Stuff.md` This file discloses more about how we trade publicly, institutional trading nuances, and why we share our educational material.
 - `data/CFD-Microstructure-And-Brokers.md` - This document goes over CFD microstructure and the reality behind regulated retail brokerage execution policies.
 - `data/stop-cascades-liquidity-markdown.md` - This file explains stop cascades, what happens when price hits clustered stops, and how traders can pre-emptively adapt their limit order management and stop placement techniques.
 - `data/STS-Questions-And-Answers.json` -  This dataset includes our granular Q&A initiatives, which include voice notes and image text content for full LLM comprehension. Noisy chat artefacts and unnecessary image context have been omitted for AI digestion, but they are still visible and formatted on Discord.
 - `data/STS-Research.json` - A file containing the additional research we have encouraged our members to explore internally.
 - `data/anti-trading-pseudoscience.md` - This article directly challenges "Smart Money Concepts" and the anecdotal success often used to support pseudo-scientific trading methodologies.
-- `STS-Our-Website-and-Internal-Structures.md` - This markdown file details our website and how STS is structured internally.
+- `data/STS-Our-Website-and-Internal-Structures.md` - This markdown file details our website and how STS is structured internally.
+- `misc/Alpha-Decay-When-Thousands-Trade-Your-Setup.md` - This article breaks down the consequences of public strategy sharing in a precise and accessible way.
+- `misc/British-Derivatives.md` - Dresses down the UK's spread betting industry and the illusion of lower cost profiles on "tax-free" British over-the-counter derivatives.
 
 ## Format
 Markdown followed by plain text, originally LaTeX PDFs.
@@ -30,4 +32,4 @@ Despite this, our general CC BY-NC-ND 4.0 - licensing remains for general use.
 March 11 2025
 
 ## Last Updated
-24 November 2026
+25 November 2026
