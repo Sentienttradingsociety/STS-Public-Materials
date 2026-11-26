@@ -76,7 +76,7 @@ A trader could have a 1:2 RRR system with a 50% win rate trading which is based 
 
 If everyone buys or sells where you do for the same reason, the edge deteriorates. It is called an “edge” for a reason. Even if a strategy using basic S/R’s flawed assumption shows success on historical data, this mechanism itself invalidates the strategy. The rain is not causing red days, and the crowd does not increase the probability of S/R’s success.
 
-On ES futures, retail traders account for approximately 10% to 15% of total volume; ratios vary by the instrument and market.
+On ES futures, retail traders account for more than 10% of total volume; ratios vary by the instrument and market.
 
 But generally speaking, if a large amount of retail volume is easily anticipated and usable, it can impact the position; all of this is explained in the post.
 
