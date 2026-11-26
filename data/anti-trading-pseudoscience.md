@@ -135,7 +135,14 @@ I did not make an assertion that ICT doesn’t work; I said it is not viable bec
 
 This post includes an equity curve simulation with strategies that have no edge (BE). The simulations display many profitable and many negative outcomes. People can make money from luck (variance) with ICT, but that alone does not provide a persistent edge.
 
-### **Challenge 2**
+### **Challenge 2 (Fallacy of Division)**
+> "Nothing in ICT is original and just a bunch of stuff from old books of Linda Raschke, and Wyckoff rebranded, so saying ICT doesn't work is like saying these market wizards were spewing nonsense too."
+
+No, it is not. Just because the origin of an idea may be sound does not mean a derivative of it is. This is like me insisting a way of displaying math is correct because it is based on legitimate ideas in calculus while the actual expression does not represent what it claims to.
+
+"My statements are correct because I cite and reference this valid source" does not make an idea correct. A lot of people use GPT to run this playbook and don't read past the abstract.
+
+### **Challenge 3**
 “This is how the market is actually run from day to day, and unfortunately some of it does line up with what michael huddleston teaches.” — Verbatim
 
 A man could have predicted a coin flip correctly e.g., 55% of the time yesterday but that is just chance that will average out to 50% with more flips, it is not a viable forecasting skill.
@@ -156,7 +163,7 @@ Later in this article I will present a Monte Carlo Simulation paired with simpli
 > “Nobody is becoming a multi-millionaire from trading by pure luck” — Common Assertion.
 Variance, not luck.
 
-### **Challenge 3**
+### **Challenge 4**
 “Where is your data or research for why ICT doesn’t work?”
 
 ### **Answer:**
