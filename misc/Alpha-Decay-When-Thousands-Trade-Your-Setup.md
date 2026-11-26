@@ -55,42 +55,58 @@ Both types of algos are defined here because these two types of bots can contrib
 **Edit (Q&A):**
 
 **Question 1:**
-
-When thousands trade your setup, if it’s enough to move the market, you make money, not lose it, right?
+**When thousands trade your setup, if it's enough to move the market, you make money, not lose it, right?**
 
 **Answer:**
-
 If well-informed people (e.g., institutions) buy after you do by chance in a way that looks toxic to market makers, they will withdraw their orders, making the price accelerate in your favour, yes, but that is not the situation I am discussing in the post; they are completely different events.
 
 **Question 2:**
-
-When everybody buys at the same time, it drives the price up (called volume), and isn’t that what you want?
+**When everybody buys at the same time, it drives the price up (called volume), and isn't that what you want?**
 
 **Answer:**
+That is not what happens all of the time because **the price moves on how much volume is executed relative to how much is available.**
 
-That is not what happens all of the time because the price moves on how much volume is executed relative to how much is available.
+People can buy significantly more than people sell by volume ($); the price can still go down because not enough bids (buy limit volume) were provided to the sellers. This is how price works, and this is the truth that breaks support and resistance's favourite story of "everyone will buy here so the price will go up".
 
-People can buy significantly more than people sell by volume ($); the price can still go down because not enough bids (buy limit volume) were provided to the sellers. This is how price works, and this is the truth that breaks support and resistance’s favourite story of “everyone will buy here so the price will go up”.
+A trader could have a 1:2 RRR system with a 50% win rate trading which is based on New York's weather; the underlying mechanism is not valid, so the strategy is not. This is similar to most technical analysis concepts; default support and resistance (S/R) narratives rely on a concept that deteriorates short-term strategies: **"market crowding", making it invalid.**
 
-A trader could have a 1:2 RRR system with a 50% win rate trading which is based on New York’s weather; the underlying mechanism is not valid, so the strategy is not. This is similar to most technical analysis concepts; default support and resistance (S/R) narratives rely on a concept that deteriorates short-term strategies: “market crowding”, making it invalid.
+If everyone buys or sells where you do for the same reason, the edge deteriorates. It is called an "edge" for a reason. Even if a strategy using basic S/R's flawed assumption shows success on historical data, this mechanism itself invalidates the strategy. The rain is not causing red days, and the crowd does not increase the probability of S/R's success.
 
-If everyone buys or sells where you do for the same reason, the edge deteriorates. It is called an “edge” for a reason. Even if a strategy using basic S/R’s flawed assumption shows success on historical data, this mechanism itself invalidates the strategy. The rain is not causing red days, and the crowd does not increase the probability of S/R’s success.
-
-On ES futures, retail traders account for more than 10% of total volume; ratios vary by the instrument and market.
+On ES futures, **retail traders account for more than 10% of total volume;** ratios vary by the instrument and market.
 
 But generally speaking, if a large amount of retail volume is easily anticipated and usable, it can impact the position; all of this is explained in the post.
 
-Price discovery is an ongoing process; what happens now influences what happens later, including indirectly influencing events that materially alter a position’s chance of success, which many traders overlook.
+**Price discovery is an ongoing process;** what happens now influences what happens later, including indirectly influencing events that materially alter a position's chance of success, which many traders overlook.
 
 **Question 3:**
-
-How does this work if retail traders do not actually trade the same setup, in the same way, even if they claim that they do?
+**How does this work if retail traders do not actually trade the same setup, in the same way, even if they claim that they do?**
 
 **Answer:**
-
-Variation in the setup, e.g., how hundreds to thousands trade the same, e.g., “support”, “resistance” live with leverage, is still participation, and participation itself is what contributes to the problem.
+Variation in the setup, e.g., how hundreds to thousands trade the same, e.g., "support", "resistance" live with leverage, is still participation, and **participation itself is what contributes to the problem.**
 
 Even if one trader gets in a tick or two early and another gets in slightly late, their orders still sit in the same general price band and time window. Delays or differences when the intent is the exact same do not magically erase correlated positioning.
+
+If thousands of traders see the same price to execute with the same intent, that will influence the market microstructure environment (which bots adjust around for the lowest transaction costs per contract filled) and since price discovery is a continuous recursive process, the crowding behaviour itself can materially alter the outcome of the trade as it influences how liquidity is provided or withdrawn at highly specific places.
+
+Precision in timing and specific ticks are not required; they are still interacting in the same price band with a similar enough intent to form a crowd. If thousands of traders see the same price to execute with the same intent, that will influence the market microstructure environment (which algos adjust around for the lowest transaction costs per contract filled) and since price discovery is a continuous recursive process, the crowding behaviour itself can materially alter the outcome of the trade as it influences how liquidity is provided or withdrawn at highly specific places.
+
+**Question 4:**
+**If institutions often choose to fill positions over hours to weeks, why would they care about retail intraday positioning?**
+
+**Answer:**
+Meta orders exist, but the main thing people are dismissing is that these algorithms still have **micro-optimisations to reduce market impact as much as possible.** These micro-optimisations can enable participation or withdrawal at the microsecond level. I never said in my posts that buy-side institutions are competing directly against retail traders and their silly strategies, I am saying **local concentrations still matter and crowding still holds impact,** because they do.
+
+**Question 5:**
+**Isn't most of that retail volume just people dumping a couple hundred dollars into S&P 500 ETFs every month (dollar cost averaging)?**
+
+**Answer:**
+No, and **retail trading accounts for more than 10% of ES S&P 500 futures volume alone.**
+
+**Question 6:**
+**How can "alpha decay" exist for retail, as they have no edge?**
+
+**Answer:**
+Technically, there is nothing to "decay" if they never had alpha in the first place, which is true for most profitable traders in their "good run", **they are often trading beta,** which is why a lot of them blow up when the market declines + they get a heavy skew towards long positioning over short positioning on systems that long and short. Despite this reality, it does not invalidate the crowding mechanism working against edges.
 
 ## Read about STS on our official website
 
