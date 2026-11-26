@@ -60,6 +60,10 @@ Both types of algos are defined here because these two types of bots can contrib
 **Answer:**
 If well-informed people (e.g., institutions) buy after you do by chance in a way that looks toxic to market makers, they will withdraw their orders, making the price accelerate in your favour, yes, but that is not the situation I am discussing in the post; they are completely different events.
 
+If a massive amount of traders buy at price $1000 all at once, sending the price from 1000 to 1010 in milliseconds, some would get filled at 1000 precisely, some at 1002, 1008, and so on (from slippage). If price rapidly falls after the expansion (which it often does), a lot of those buyers could experience exaggerated losses from slippage.
+
+This happens because market maker algos would reduce their offers significantly (sell limit orders) or pull them entirely, forcing those aggressive market orders to be filled at progressively worse prices, resulting in poor slippage fills and losses for a large portion of those buyers.
+
 **Question 2:**
 **When everybody buys at the same time, it drives the price up (called volume), and isn't that what you want?**
 
