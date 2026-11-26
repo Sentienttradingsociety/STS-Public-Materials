@@ -52,6 +52,11 @@ A bad run is exposed only to the active partition (10%), while the remaining $90
 
 This can create a curve where winning runs grow capital faster than losing runs shrink it, known in quantitative finance as convexity.
 
+## Why Isolation Enables the Larger Sizing
+
+Higher percentage risk inside the reduced active capital (8% vs. 0.8%), combined with statistically inevitable positive streaks (e.g., two positive outcomes in a row), scales dollar risk sizes faster. Isolation is what lets you run that partition alongside the rest of the $100,000 capital base without exposing the full $100,000 to that system's local P&L volatility or mixing in noise from other strategies. Keeping the other $90,000 separated stops a losing run or another setup's noise from pulling down the active partition's risk taken during compounding and from contaminating the rest of the capital on bad runs.
+Without isolation, external trades can pull the returns down globally, potentially lowering the risks taken on profitable positions, unnecessarily increasing path dependency for favourable outcomes.
+
 Only one position is held open at any given time, and an active trade does not cancel out a subsequent setup. The strategy is explicitly designed to reduce position-based path dependence. If positions were allowed to overlap (such as entering a short setup while a long position is active), the strategy would lack proper isolation. Because each setup functions as an independent strategy, overlapping trades would interfere with compounding and free margin.
 
 Separating accounts can also stop one setup from dragging down another.
