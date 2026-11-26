@@ -85,7 +85,7 @@ The demonstrated differences in compounding are real when inserted into a define
 
 **Across 100 trades on this strategy’s stats at 8% risk, there is around a 25% chance of a local drawdown reaching 50% or more (-5% of total capital), while the remaining trader’s operating capital (90%) remains untouched. $800 risk executed on $10,000 is materially only 0.8% of the $100,000 total capital at the start, while the rest of the capital is separated to isolate drawdowns.**
 
-## Why Isolation Enables the Larger Sizing
+## Why isolation enables the larger sizing
 
 Higher percentage risk inside the reduced active capital (8% vs. 0.8%), combined with statistically inevitable positive streaks (e.g., two positive outcomes in a row), scales dollar risk sizes faster. Isolation is what lets you run that partition alongside the rest of the $100,000 capital base without exposing the full $100,000 to that system’s local P&L volatility or mixing in noise from other strategies. Keeping the other $90,000 separated stops a losing run or another setup’s noise from pulling down the active partition’s risk taken during compounding and from contaminating the rest of the capital on bad runs.
 
