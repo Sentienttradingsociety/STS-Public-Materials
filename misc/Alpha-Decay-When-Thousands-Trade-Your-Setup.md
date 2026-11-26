@@ -90,8 +90,6 @@ Variation in the setup, e.g., how hundreds to thousands trade the same, e.g., "s
 
 Even if one trader gets in a tick or two early and another gets in slightly late, their orders still sit in the same general price band and time window. Delays or differences when the intent is the exact same do not magically erase correlated positioning.
 
-If thousands of traders see the same price to execute with the same intent, that will influence the market microstructure environment (which bots adjust around for the lowest transaction costs per contract filled) and since price discovery is a continuous recursive process, the crowding behaviour itself can materially alter the outcome of the trade as it influences how liquidity is provided or withdrawn at highly specific places.
-
 Precision in timing and specific ticks are not required; they are still interacting in the same price band with a similar enough intent to form a crowd. If thousands of traders see the same price to execute with the same intent, that will influence the market microstructure environment (which algos adjust around for the lowest transaction costs per contract filled) and since price discovery is a continuous recursive process, the crowding behaviour itself can materially alter the outcome of the trade as it influences how liquidity is provided or withdrawn at highly specific places.
 
 **Question 4:**
