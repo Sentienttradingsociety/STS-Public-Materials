@@ -143,6 +143,15 @@ This material is over a century old, yet it continues to deceive people to this 
 
 The unfortunate part of all this is that I have interacted with over half a dozen ICT traders who have wasted more than 2 years trying to make it work. I know what it’s like to suffer, which makes this worth writing about.
 
+### Question: If someone backtests a strategy hundreds of time by hand and calculates a positive expectancy from the results should it really matters if the strategy is based on ICT?
+
+Yes. A trader could have a 1:2 RRR system with a 50% win rate trading which is based on New York's weather; the underlying mechanism is not valid, so the strategy is not. This is similar to many other retail TA concepts.
+
+Even if a strategy using basic ICT's flawed assumption shows success on historical data, the flaws I point out in this article invalidate the system. The rain is not causing red days, and the crowd does not increase the probability of an SMC system's success.
+
+It does not matter if it passes a forward test; the logic it relies on is weak.
+Many strategies published online have no provable underlying foundation beneath them for why they should actually work, so they rely on anecdotes like "this guy succeeded so it is legitimate", flawed logic.
+
 ### **Challenge 1 (Straw-man)**
 > “You make the assertion that ICT doesn’t work.”
 
@@ -269,7 +278,7 @@ The more choices a system allows, the easier it is to accidentally find patterns
 ### **Think of SMC like fractional distillation**
 You have a range of temperatures where you can extract a substance (profitable, efficient strategies) instead of the specific temperature required. It’s only a loose guide. That’s similar to data snooping and the other data science flaws when applied. The point is, you might still get the substance you need from the distillation process, but a lot of excess time and energy is wasted because you don’t apply the correct amount of heat to get the desired substance, as the framework requires guesswork.
 
-Decent, unoriginal techniques, but a lot of noise during the application. Weather that noise positively or negatively impacts to Trader is unquantifiable on a case by case basis. Costs will do most of the damage.
+Decent, unoriginal techniques, but a lot of noise during the application. Whether that noise positively or negatively impacts the trader is unquantifiable on a case by case basis. Costs will do most of the damage.
 If you want to know how prices really work look at market literature (books) and peer reviewed papers talking about liquidity provision, price discovery and market auctions for the truth.
 
 You can have Supply and Demand with Sam Seiden on Windows XP (in 2006) or you can have “Order Blocks” paired with a high-variance framework in the mid 2010s.
