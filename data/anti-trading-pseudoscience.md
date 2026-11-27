@@ -117,6 +117,21 @@ Yes, I get it, but you are trying to infer this from candlesticks; that’s wher
 
 The initial ideas are old and are referred to as the “composite man” frameworks with similar ideas to ICT, e.g., Dow theory has been exposed since 1934, for example, by Alfred Cowles.
 
+ICT: It's not three consecutive bars followed by a retracement or a breakout and retest; it is a "Institutional Order Flow Entry Drill". Ridiculous.
+MMXM materially has nothing to do with market makers and "IOFED" has nothing to do with institutions.
+
+A few out of millions of tries displaying anecdotal success from intuitive discretionary ICT trading does not legitimise it (survivorship bias), a lot of people have made a lot of money buying moving average crossovers or Darvas box breakouts by chance, which are materially just as baseless.
+
+**Do not let educators fool you:**
+
+Any phrase/term is worth simplifying; in real finance and other serious fields, terms are designed to be legitimately descriptive. The dress-up is that "Institutional Order Flow Entry Drill" does not actually describe what it is or the mechanism, and "market maker buy model" is not a market maker buy model; the jargon is like grand icing to mask a cake's mediocrity.
+
+**Look past the dress-up.**
+
+There is no agreed-upon way to deploy anything within these frameworks; when favourable data is published, people will rush to validate it, when poor data is released, people will rush to dismiss it. It's a classic pseudoscientific no true Scotsman trap. There is no "right" way, which is central to the problem and believing a strategy will be effective just because of data (regardless of whether it's a backtest or forward test) is circular reasoning in principle.
+
+ICT/SMC has no verifiable underlying foundation beneath it for why it should actually work, which is why it is mocked by quants and other serious traders.
+
 ### **Question: Isn’t ICT known to be a fraud?**
 People tend to give emotional arguments against ICT and use his tainted reputation, but a common logical fallacy is “But his concepts work”, tied to supposed anecdotal successes paired with ad hoc reasoning.
 This post exists to prove that the framework at its core is nonsense, so people cannot hide behind excuses.
@@ -288,13 +303,13 @@ Tests like the ones I have linked isolate the formation rather than disprove the
 
 ## **Part 7: Accepting or rejecting the framework itself is far more important.**
 ### **Why?**
-Because identifying poor logic saves the time and money many traders commit to flawed methodology. If the combinations and decision noise from interpretation is materially infinite only the rationale can be attacked.¹
+Because identifying poor logic saves the time and money many traders commit to flawed methodology. If the combinations and decision noise from interpretation is materially infinite, only the rationale can be attacked.¹
 
 If I backtest a specific model that a trading influencer pushes, people will rely on subjective excuses such as “it is being applied incorrectly” when poor results materialise.
 
 There is no objective way to use SMC, it is a framework that depends on how the person who uses it decides to use it. So it is only worth attacking it from the roots; otherwise, the debate lacks logically grounded substance and will never end. The point of the evidence I’ve submitted is to end the circular nature of these debates.
 
-The framework itself unfalsifiable but the logic itself is not so I have refuted what is possible to save you time [1].
+The framework itself is unfalsifiable, but the logic itself is not, so I have refuted what is possible to save you time [1].
 
 ### **A direct quote from the creator of SMC:**
 > “What other Trading Theory is this consistent, predictable, streamlined and so precise?” — verbatim.
