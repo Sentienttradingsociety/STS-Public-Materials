@@ -150,7 +150,7 @@ Yes. A trader could have a 1:2 RRR system with a 50% win rate trading which is b
 Even if a strategy using basic ICT's flawed assumption shows success on historical data, the flaws I point out in this article invalidate the system. The rain is not causing red days, and the crowd does not increase the probability of an SMC system's success.
 
 It does not matter if it passes a forward test; the logic it relies on is weak.
-Many strategies published online have no provable underlying foundation beneath them for why they should actually work, so they rely on anecdotes like "this guy succeeded so it is legitimate", flawed logic.
+Many strategies published online have no provable underlying foundation beneath them for why they should actually work, so they tend to rely on anecdotes like "this guy succeeded so it is legitimate", flawed logic to pretend an edge exists in pseudo-scientific trading methodologies.
 
 ### **Challenge 1 (Straw-man)**
 > “You make the assertion that ICT doesn’t work.”
