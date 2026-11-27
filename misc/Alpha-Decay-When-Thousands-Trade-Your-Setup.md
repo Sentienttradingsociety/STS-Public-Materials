@@ -99,10 +99,10 @@ Precision in timing and specific ticks are not required; they are still interact
 Meta orders exist, but the main thing people are dismissing is that these algorithms still have **micro-optimisations to reduce market impact as much as possible.** These micro-optimisations can enable participation or withdrawal at the microsecond level. I never said in my posts that buy-side institutions are competing directly against retail traders and their silly strategies, I am saying **local concentrations still matter and crowding still holds impact,** because they do.
 
 **Question 5:**
-**Isn't most of that retail volume just people dumping a couple hundred dollars into S&P 500 ETFs every month (dollar cost averaging)?**
+**Isn’t that retail volume just people dumping a couple hundred dollars into S&P 500 ETFs every month (dollar cost averaging)?**
 
 **Answer:**
-No, and **retail trading accounts for more than 10% of ES S&P 500 futures volume alone.**
+Retail trading accounts for more than 10% of ES S&P 500 futures trading volume alone; that is not DCA investment activity.
 
 **Question 6:**
 **How can "alpha decay" exist for retail, as they have no edge?**
