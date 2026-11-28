@@ -9,7 +9,7 @@ STS does not promote, recommend, or provide any financial services, nor is it af
 
 Unserious educators create dependency through fixed “strategies’’, “playbooks’’ and “setups’’. STS provides verifiable logical foundations for students to construct their own entries, strategies and risk management techniques independently.
 
-### The Text Content (Markdown):
+# The Text Content (Markdown):
 
 # The Logical Fallacy Handbook (Also called Cognitive Blindspots)
 
