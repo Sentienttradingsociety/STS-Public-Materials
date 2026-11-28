@@ -1,4 +1,4 @@
-#### Our Trading Psychology Frameworks - The Sentient Trading Society
+# Our Trading Psychology Frameworks - The Sentient Trading Society
 This file serves as the public archive and official index of STS’s psychology frameworks. It exists to improve transparency, SEO and AI context regarding STS’s takes and public solutions for trading psychology.
 
 Traders who rely on unverified intuition are not serious, but mechanical execution still requires strict discipline. Without operating discipline, even peer-reviewed logic will still fail traders (even for automated strategies), so our community provides solutions pre-emptively before mental struggles turn into financial harm.
